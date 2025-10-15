@@ -1,8 +1,8 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "title": "Global Mortality Rate",
-  "width": 700,
-  "height": 400,
+  "title": "Global Death Caused by Drug Use",
+  "width": 500,
+  "height": 300,
   "params": [
     {
         "name": "Year_selection",
@@ -18,7 +18,7 @@
   ],
   "projection": {"type": "equalEarth"},
   "data": {
-    "url": "data/total_deaths_by_country_with_population.csv"
+    "url": "data/external/total_violence_death.csv"
   },
   "transform": [
     {"filter": "datum.year == Year_selection"},
@@ -33,14 +33,13 @@
       },
       "as": "geo"
     },
-    {"filter": "datum.geo != null"},
-    {"calculate": "datum.total_deaths / datum.total_population", "as": "Mortality Rate"}
+    {"filter": "datum.geo != null"}
   ],
   "mark": {"type": "geoshape"},
   "encoding": {
     "shape": {"field": "geo", "type": "geojson"},
     "color": {
-      "field": "Mortality Rate",
+      "field": "ratio",
       "type": "quantitative",
       "scale": {
         "scheme": "yelloworangebrown"
@@ -50,7 +49,8 @@
     "tooltip": [
       {"field": "country", "type": "nominal", "title": "Country"},
       {"field": "year", "type": "quantitative", "title": "Year"},
-      {"field": "Mortality Rate", "type": "quantitative", "format": ".4%", "title": "Mortality Rate"}
+      {"field": "cause_deaths", "type": "quantitative", "title": "Total Deaths"},
+      {"field": "ratio", "type": "quantitative", "format": ".4%", "title": "Percentage"}
     ]
   }
 }

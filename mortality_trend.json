@@ -1,0 +1,45 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": "Developed Country Mortality Rates",
+  "width": 300,
+  "height": 100,
+  "data": {
+    "url": "data/total_deaths_by_country_with_population.csv"
+  },
+  "transform": [
+    {"filter": "datum.country == 'United States of America' || datum.country == 'China' || datum.country == 'Russia' || datum.country == 'Germany'"},
+    {"calculate": "datum.total_deaths / datum.total_population", "as": "Mortality Rate"}
+  ],
+  "mark": {
+    "type": "line",
+    "strokeWidth": 3
+  },
+  "encoding": {
+    "x": {
+      "field": "year",
+      "type": "ordinal",
+      "title": "Year"
+    },
+    "y": {
+      "field": "Mortality Rate",
+      "type": "quantitative",
+      "title": "Mortality Rate",
+      "scale": {
+        "domain": [0.005, 0.02]
+      }
+    },
+    "color": {
+      "field": "country",
+      "type": "nominal",
+      "title": "Country",
+      "scale": {
+        "scheme": "category10"
+      }
+    },
+    "tooltip": [
+      {"field": "country", "type": "nominal", "title": "Country"},
+      {"field": "year", "type": "quantitative", "title": "Year"},
+      {"field": "Mortality Rate", "type": "quantitative", "format": ".4%", "title": "Mortality Rate"}
+    ]
+  }
+}

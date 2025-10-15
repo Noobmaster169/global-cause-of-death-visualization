@@ -24,7 +24,7 @@
         .dashboard-container {
             max-width: 1600px;
             margin: 0 auto;
-            background: white;
+            background: rgb(230, 231, 234);
             box-shadow: 0 20px 40px rgba(0,0,0,0.1);
             overflow: hidden;
         }
@@ -80,8 +80,8 @@
         .dashboard-grid {
             display: grid;
             grid-template-columns: repeat(auto-fit, minmax(500px, 1fr));
-            gap: 30px;
-            padding: 30px;
+            gap: 20px;
+            padding: 10px 30px;
         }
         
         .chart-container {
@@ -102,14 +102,12 @@
             font-weight: 600;
             color: #2c3e50;
             margin-bottom: 15px;
-            text-align: center;
         }
         
         .chart-description {
             font-size: 0.95rem;
             color: #6c757d;
             margin-bottom: 20px;
-            text-align: center;
             line-height: 1.5;
         }
         
@@ -213,32 +211,46 @@
                 <span class="stat-label">Years of Data</span>
             </div>
         </div>
-
-        <div class="section-header">
-            <h2>🗺️ Geographic Distribution of Major Causes</h2>
-        </div>
         
-        <div class="dashboard-grid">
-            <div class="chart-container full-width">
-                <div class="chart-title">Cardiovascular Disease Deaths by Country (2019)</div>
-                <div class="chart-description">Global distribution of cardiovascular disease mortality - the leading cause of death worldwide</div>
+        <div class="dashboard-grid" style="grid-template-columns: 4fr 2fr;">
+            <div class="chart-container">
                 <div id="mortality-rate-map" class="loading">Loading map...</div>
+            </div>
+            <div class="chart-container">
+                <!-- This is your 25% space - add content here -->
+                <h1 class="chart-title">Global Mortality Trend</h1>
+                <p class="chart-description">Several Modern Countries are showing increasing Mortality Rate due to older demographies, while underdeveloped countries shows increased Mortality Rate</p>
+                <div id="mortality-trend">Loading Chart...</div>
+                <div id="mortality-trend-2">Loading Chart...</div>
             </div>
         </div>
 
-        <div class="section-header">
-            <h2>🔍 Detailed Analysis & Comparisons</h2>
+         <div class="dashboard-grid" style="grid-template-columns: 3fr 4fr;">
+            <div class="chart-container">
+                <div id="cause-distribution" class="loading">Loading chart...</div>
+                <div class="chart-description">Majority of Global Death are causes by Non-Communicable Disease, such as Cancer, Diabetes, and Cardiovascular Diseases</div>
+            </div>
+            <div class="chart-container">
+                 <div class="chart-description">Cases of Infectious Disease has decreased overtime</div>
+                <div id="infectious-disease-trends" class="loading">Loading chart...</div>
+            </div>
+        </div>
+
+        <div class="dashboard-grid">
+            <div class="chart-container half-width">
+                <div id="drug-map" class="loading">Loading map...</div>
+            </div>
+            <div class="chart-container">
+                <div id="hiv-map" class="loading">Loading map...</div>
+            </div>
         </div>
         
         <div class="dashboard-grid">
             <div class="chart-container half-width">
-                <div id="cause-distribution" class="loading">Loading chart...</div>
-                <div class="chart-description">Majority of Global Death are causes by Non-Communicable Disease, such as Cancer, Diabetes, and Cardiovascular Diseases</div>
+                <div id="malaria-map" class="loading">Loading map...</div>
             </div>
-             <div class="chart-container half-width">
-                <div class="chart-title">Cause of Death Distribution</div>
-                <div class="chart-description">Comparative analysis of global causes of death</div>
-                <div id="cause-distribution" class="loading">Loading chart...</div>
+            <div class="chart-container">
+                <div id="violence-map" class="loading">Loading map...</div>
             </div>
         </div>
     </div>
@@ -255,7 +267,14 @@
         const charts = [
             {id: 'cause-distribution', file: 'death_cause_distribution.json'},
             {id: 'mortality-rate-map', file: 'mortality_rate.json'},
-            {id: 'empty-map', file: 'empty_map.json'}
+            {id: 'mortality-trend', file: 'mortality_trend.json'},
+            {id: 'mortality-trend-2', file: 'mortality_trend_2.json'},
+            {id: 'empty-map', file: 'empty_map.json'},
+            {id: 'infectious-disease-trends', file: 'infectious_disease.json'},
+            {id: 'drug-map', file: 'caused_by_drug_map.json'},
+            {id: 'violence-map', file: 'caused_by_violence_map.json'},
+            {id: 'hiv-map', file: 'caused_by_hiv.json'},
+            {id: 'malaria-map', file: 'caused_by_malaria.json'},
             // { id: 'cardio-map', file: '1_cardiovascular_deaths_map.json' },
             // { id: 'cancer-map', file: '2_cancer_deaths_map.json' },
             // { id: 'leading-causes', file: '3_leading_causes_bar.json' },
