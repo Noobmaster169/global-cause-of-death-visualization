@@ -1,0 +1,34 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v6.json",
+    "title": "Global Cause of Death Distribution",
+    "width": 400,
+    "height": 400,
+    "data": { "url": "data/total_deaths_by_category.csv" },
+    "mark": {
+        "type": "arc",
+        "innerRadius": 60,
+        "outerRadius": 150,
+        "stroke": "white",
+        "strokeWidth": 2
+    },
+    "encoding": {
+        "theta": {
+            "field": "total_deaths",
+            "type": "quantitative"
+        },
+        "color": {
+            "field": "category",
+            "type": "nominal",
+            "legend": {
+                "title": "Cause of Death"
+            },
+            "scale": {
+                "scheme": "pastel1"
+            }
+        },
+        "tooltip": [
+            {"field": "category", "type": "nominal"},
+            {"field": "total_deaths", "type": "quantitative", "format": ","}
+        ]
+    }
+}

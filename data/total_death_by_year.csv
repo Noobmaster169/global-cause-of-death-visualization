@@ -1,0 +1,931 @@
+category,year,total_deaths
+Acute Hepatitis,1990,166343
+Acute Hepatitis,1991,165276
+Acute Hepatitis,1992,163687
+Acute Hepatitis,1993,161899
+Acute Hepatitis,1994,159423
+Acute Hepatitis,1995,157173
+Acute Hepatitis,1996,153406
+Acute Hepatitis,1997,151902
+Acute Hepatitis,1998,149563
+Acute Hepatitis,1999,147017
+Acute Hepatitis,2000,144124
+Acute Hepatitis,2001,140143
+Acute Hepatitis,2002,134941
+Acute Hepatitis,2003,130158
+Acute Hepatitis,2004,127953
+Acute Hepatitis,2005,128197
+Acute Hepatitis,2006,124737
+Acute Hepatitis,2007,120512
+Acute Hepatitis,2008,117273
+Acute Hepatitis,2009,112643
+Acute Hepatitis,2010,109556
+Acute Hepatitis,2011,106549
+Acute Hepatitis,2012,104589
+Acute Hepatitis,2013,98898
+Acute Hepatitis,2014,92845
+Acute Hepatitis,2015,88750
+Acute Hepatitis,2016,84726
+Acute Hepatitis,2017,82472
+Acute Hepatitis,2018,80894
+Acute Hepatitis,2019,79142
+Alcohol Use Disorders,1990,116390
+Alcohol Use Disorders,1991,122478
+Alcohol Use Disorders,1992,131665
+Alcohol Use Disorders,1993,143901
+Alcohol Use Disorders,1994,153859
+Alcohol Use Disorders,1995,156714
+Alcohol Use Disorders,1996,156352
+Alcohol Use Disorders,1997,155429
+Alcohol Use Disorders,1998,156282
+Alcohol Use Disorders,1999,160606
+Alcohol Use Disorders,2000,166094
+Alcohol Use Disorders,2001,170787
+Alcohol Use Disorders,2002,175317
+Alcohol Use Disorders,2003,178889
+Alcohol Use Disorders,2004,180491
+Alcohol Use Disorders,2005,181704
+Alcohol Use Disorders,2006,177747
+Alcohol Use Disorders,2007,174006
+Alcohol Use Disorders,2008,171613
+Alcohol Use Disorders,2009,166736
+Alcohol Use Disorders,2010,164313
+Alcohol Use Disorders,2011,161372
+Alcohol Use Disorders,2012,159381
+Alcohol Use Disorders,2013,158848
+Alcohol Use Disorders,2014,159291
+Alcohol Use Disorders,2015,160713
+Alcohol Use Disorders,2016,162047
+Alcohol Use Disorders,2017,162599
+Alcohol Use Disorders,2018,165462
+Alcohol Use Disorders,2019,167932
+Alzheimer's Disease and Other Dementias,1990,560616
+Alzheimer's Disease and Other Dementias,1991,583166
+Alzheimer's Disease and Other Dementias,1992,605894
+Alzheimer's Disease and Other Dementias,1993,629571
+Alzheimer's Disease and Other Dementias,1994,652176
+Alzheimer's Disease and Other Dementias,1995,674815
+Alzheimer's Disease and Other Dementias,1996,696665
+Alzheimer's Disease and Other Dementias,1997,717342
+Alzheimer's Disease and Other Dementias,1998,738768
+Alzheimer's Disease and Other Dementias,1999,761620
+Alzheimer's Disease and Other Dementias,2000,786615
+Alzheimer's Disease and Other Dementias,2001,814526
+Alzheimer's Disease and Other Dementias,2002,845695
+Alzheimer's Disease and Other Dementias,2003,877011
+Alzheimer's Disease and Other Dementias,2004,909148
+Alzheimer's Disease and Other Dementias,2005,945619
+Alzheimer's Disease and Other Dementias,2006,982308
+Alzheimer's Disease and Other Dementias,2007,1022057
+Alzheimer's Disease and Other Dementias,2008,1065297
+Alzheimer's Disease and Other Dementias,2009,1109405
+Alzheimer's Disease and Other Dementias,2010,1155944
+Alzheimer's Disease and Other Dementias,2011,1201138
+Alzheimer's Disease and Other Dementias,2012,1247515
+Alzheimer's Disease and Other Dementias,2013,1294701
+Alzheimer's Disease and Other Dementias,2014,1343756
+Alzheimer's Disease and Other Dementias,2015,1394942
+Alzheimer's Disease and Other Dementias,2016,1451840
+Alzheimer's Disease and Other Dementias,2017,1509646
+Alzheimer's Disease and Other Dementias,2018,1568617
+Alzheimer's Disease and Other Dementias,2019,1622426
+Cardiovascular Diseases,1990,12062179
+Cardiovascular Diseases,1991,12220282
+Cardiovascular Diseases,1992,12437979
+Cardiovascular Diseases,1993,12802108
+Cardiovascular Diseases,1994,13026289
+Cardiovascular Diseases,1995,13129252
+Cardiovascular Diseases,1996,13213565
+Cardiovascular Diseases,1997,13339902
+Cardiovascular Diseases,1998,13461489
+Cardiovascular Diseases,1999,13720763
+Cardiovascular Diseases,2000,13957078
+Cardiovascular Diseases,2001,14185571
+Cardiovascular Diseases,2002,14501696
+Cardiovascular Diseases,2003,14710723
+Cardiovascular Diseases,2004,14745985
+Cardiovascular Diseases,2005,14995528
+Cardiovascular Diseases,2006,14991661
+Cardiovascular Diseases,2007,15117363
+Cardiovascular Diseases,2008,15402070
+Cardiovascular Diseases,2009,15552545
+Cardiovascular Diseases,2010,15838151
+Cardiovascular Diseases,2011,16038263
+Cardiovascular Diseases,2012,16245243
+Cardiovascular Diseases,2013,16490053
+Cardiovascular Diseases,2014,16715810
+Cardiovascular Diseases,2015,17089707
+Cardiovascular Diseases,2016,17398709
+Cardiovascular Diseases,2017,17685890
+Cardiovascular Diseases,2018,18113910
+Cardiovascular Diseases,2019,18552218
+Chronic Kidney Disease,1990,600925
+Chronic Kidney Disease,1991,613589
+Chronic Kidney Disease,1992,630160
+Chronic Kidney Disease,1993,647255
+Chronic Kidney Disease,1994,665365
+Chronic Kidney Disease,1995,683701
+Chronic Kidney Disease,1996,704624
+Chronic Kidney Disease,1997,731048
+Chronic Kidney Disease,1998,758681
+Chronic Kidney Disease,1999,785380
+Chronic Kidney Disease,2000,814854
+Chronic Kidney Disease,2001,842790
+Chronic Kidney Disease,2002,874109
+Chronic Kidney Disease,2003,902200
+Chronic Kidney Disease,2004,922921
+Chronic Kidney Disease,2005,956457
+Chronic Kidney Disease,2006,981743
+Chronic Kidney Disease,2007,1010311
+Chronic Kidney Disease,2008,1045743
+Chronic Kidney Disease,2009,1074048
+Chronic Kidney Disease,2010,1107473
+Chronic Kidney Disease,2011,1143219
+Chronic Kidney Disease,2012,1176295
+Chronic Kidney Disease,2013,1214187
+Chronic Kidney Disease,2014,1247378
+Chronic Kidney Disease,2015,1286935
+Chronic Kidney Disease,2016,1325004
+Chronic Kidney Disease,2017,1351349
+Chronic Kidney Disease,2018,1387668
+Chronic Kidney Disease,2019,1426280
+Chronic Respiratory Diseases,1990,3092759
+Chronic Respiratory Diseases,1991,3148288
+Chronic Respiratory Diseases,1992,3207816
+Chronic Respiratory Diseases,1993,3266612
+Chronic Respiratory Diseases,1994,3297292
+Chronic Respiratory Diseases,1995,3313295
+Chronic Respiratory Diseases,1996,3342591
+Chronic Respiratory Diseases,1997,3381872
+Chronic Respiratory Diseases,1998,3401426
+Chronic Respiratory Diseases,1999,3419612
+Chronic Respiratory Diseases,2000,3450006
+Chronic Respiratory Diseases,2001,3465831
+Chronic Respiratory Diseases,2002,3490310
+Chronic Respiratory Diseases,2003,3491643
+Chronic Respiratory Diseases,2004,3462850
+Chronic Respiratory Diseases,2005,3479174
+Chronic Respiratory Diseases,2006,3461443
+Chronic Respiratory Diseases,2007,3467408
+Chronic Respiratory Diseases,2008,3510195
+Chronic Respiratory Diseases,2009,3498126
+Chronic Respiratory Diseases,2010,3509920
+Chronic Respiratory Diseases,2011,3539167
+Chronic Respiratory Diseases,2012,3558276
+Chronic Respiratory Diseases,2013,3610804
+Chronic Respiratory Diseases,2014,3651653
+Chronic Respiratory Diseases,2015,3690907
+Chronic Respiratory Diseases,2016,3740794
+Chronic Respiratory Diseases,2017,3795946
+Chronic Respiratory Diseases,2018,3886637
+Chronic Respiratory Diseases,2019,3972681
+Cirrhosis and Other Chronic Liver Diseases,1990,1012423
+Cirrhosis and Other Chronic Liver Diseases,1991,1026870
+Cirrhosis and Other Chronic Liver Diseases,1992,1042953
+Cirrhosis and Other Chronic Liver Diseases,1993,1067730
+Cirrhosis and Other Chronic Liver Diseases,1994,1089331
+Cirrhosis and Other Chronic Liver Diseases,1995,1104380
+Cirrhosis and Other Chronic Liver Diseases,1996,1115241
+Cirrhosis and Other Chronic Liver Diseases,1997,1128962
+Cirrhosis and Other Chronic Liver Diseases,1998,1141509
+Cirrhosis and Other Chronic Liver Diseases,1999,1158552
+Cirrhosis and Other Chronic Liver Diseases,2000,1177628
+Cirrhosis and Other Chronic Liver Diseases,2001,1200250
+Cirrhosis and Other Chronic Liver Diseases,2002,1227607
+Cirrhosis and Other Chronic Liver Diseases,2003,1251776
+Cirrhosis and Other Chronic Liver Diseases,2004,1266574
+Cirrhosis and Other Chronic Liver Diseases,2005,1293978
+Cirrhosis and Other Chronic Liver Diseases,2006,1300281
+Cirrhosis and Other Chronic Liver Diseases,2007,1311974
+Cirrhosis and Other Chronic Liver Diseases,2008,1330568
+Cirrhosis and Other Chronic Liver Diseases,2009,1330408
+Cirrhosis and Other Chronic Liver Diseases,2010,1340704
+Cirrhosis and Other Chronic Liver Diseases,2011,1348880
+Cirrhosis and Other Chronic Liver Diseases,2012,1354358
+Cirrhosis and Other Chronic Liver Diseases,2013,1359145
+Cirrhosis and Other Chronic Liver Diseases,2014,1363403
+Cirrhosis and Other Chronic Liver Diseases,2015,1384947
+Cirrhosis and Other Chronic Liver Diseases,2016,1404134
+Cirrhosis and Other Chronic Liver Diseases,2017,1425956
+Cirrhosis and Other Chronic Liver Diseases,2018,1447651
+Cirrhosis and Other Chronic Liver Diseases,2019,1471148
+Conflict and Terrorism,1990,116286
+Conflict and Terrorism,1991,85017
+Conflict and Terrorism,1992,62063
+Conflict and Terrorism,1993,62733
+Conflict and Terrorism,1994,566082
+Conflict and Terrorism,1995,67210
+Conflict and Terrorism,1996,87324
+Conflict and Terrorism,1997,99263
+Conflict and Terrorism,1998,108842
+Conflict and Terrorism,1999,141860
+Conflict and Terrorism,2000,120011
+Conflict and Terrorism,2001,67069
+Conflict and Terrorism,2002,66414
+Conflict and Terrorism,2003,71044
+Conflict and Terrorism,2004,70502
+Conflict and Terrorism,2005,59507
+Conflict and Terrorism,2006,74555
+Conflict and Terrorism,2007,71286
+Conflict and Terrorism,2008,64695
+Conflict and Terrorism,2009,71582
+Conflict and Terrorism,2010,54467
+Conflict and Terrorism,2011,62900
+Conflict and Terrorism,2012,112295
+Conflict and Terrorism,2013,117364
+Conflict and Terrorism,2014,187939
+Conflict and Terrorism,2015,167030
+Conflict and Terrorism,2016,161637
+Conflict and Terrorism,2017,130737
+Conflict and Terrorism,2018,103407
+Conflict and Terrorism,2019,62932
+Diabetes Mellitus,1990,661085
+Diabetes Mellitus,1991,679630
+Diabetes Mellitus,1992,702253
+Diabetes Mellitus,1993,728077
+Diabetes Mellitus,1994,751254
+Diabetes Mellitus,1995,773490
+Diabetes Mellitus,1996,799023
+Diabetes Mellitus,1997,827734
+Diabetes Mellitus,1998,854415
+Diabetes Mellitus,1999,879521
+Diabetes Mellitus,2000,905965
+Diabetes Mellitus,2001,934841
+Diabetes Mellitus,2002,970544
+Diabetes Mellitus,2003,1000276
+Diabetes Mellitus,2004,1018138
+Diabetes Mellitus,2005,1050925
+Diabetes Mellitus,2006,1071057
+Diabetes Mellitus,2007,1092777
+Diabetes Mellitus,2008,1122287
+Diabetes Mellitus,2009,1142391
+Diabetes Mellitus,2010,1165663
+Diabetes Mellitus,2011,1197995
+Diabetes Mellitus,2012,1236606
+Diabetes Mellitus,2013,1277414
+Diabetes Mellitus,2014,1320608
+Diabetes Mellitus,2015,1366100
+Diabetes Mellitus,2016,1412896
+Diabetes Mellitus,2017,1454681
+Diabetes Mellitus,2018,1501633
+Diabetes Mellitus,2019,1549593
+Diarrheal Diseases,1990,2894957
+Diarrheal Diseases,1991,2903085
+Diarrheal Diseases,1992,2871809
+Diarrheal Diseases,1993,2798615
+Diarrheal Diseases,1994,2740299
+Diarrheal Diseases,1995,2673263
+Diarrheal Diseases,1996,2615313
+Diarrheal Diseases,1997,2579027
+Diarrheal Diseases,1998,2544585
+Diarrheal Diseases,1999,2496957
+Diarrheal Diseases,2000,2440570
+Diarrheal Diseases,2001,2378465
+Diarrheal Diseases,2002,2312641
+Diarrheal Diseases,2003,2242961
+Diarrheal Diseases,2004,2166496
+Diarrheal Diseases,2005,2125961
+Diarrheal Diseases,2006,2109339
+Diarrheal Diseases,2007,2076357
+Diarrheal Diseases,2008,2044769
+Diarrheal Diseases,2009,1977248
+Diarrheal Diseases,2010,1928704
+Diarrheal Diseases,2011,1902762
+Diarrheal Diseases,2012,1834769
+Diarrheal Diseases,2013,1788081
+Diarrheal Diseases,2014,1725693
+Diarrheal Diseases,2015,1679043
+Diarrheal Diseases,2016,1639826
+Diarrheal Diseases,2017,1632183
+Diarrheal Diseases,2018,1577953
+Diarrheal Diseases,2019,1533777
+Digestive Diseases,1990,1854392
+Digestive Diseases,1991,1877515
+Digestive Diseases,1992,1903759
+Digestive Diseases,1993,1939556
+Digestive Diseases,1994,1967669
+Digestive Diseases,1995,1984263
+Digestive Diseases,1996,1995513
+Digestive Diseases,1997,2014659
+Digestive Diseases,1998,2030600
+Digestive Diseases,1999,2054201
+Digestive Diseases,2000,2079551
+Digestive Diseases,2001,2107791
+Digestive Diseases,2002,2143976
+Digestive Diseases,2003,2173729
+Digestive Diseases,2004,2187927
+Digestive Diseases,2005,2226154
+Digestive Diseases,2006,2235326
+Digestive Diseases,2007,2251390
+Digestive Diseases,2008,2280070
+Digestive Diseases,2009,2279806
+Digestive Diseases,2010,2298319
+Digestive Diseases,2011,2316484
+Digestive Diseases,2012,2329472
+Digestive Diseases,2013,2348963
+Digestive Diseases,2014,2364063
+Digestive Diseases,2015,2404387
+Digestive Diseases,2016,2439649
+Digestive Diseases,2017,2478029
+Digestive Diseases,2018,2515213
+Digestive Diseases,2019,2556209
+Drowning,1990,460460
+Drowning,1991,454375
+Drowning,1992,447056
+Drowning,1993,445434
+Drowning,1994,443350
+Drowning,1995,437303
+Drowning,1996,423296
+Drowning,1997,413405
+Drowning,1998,407205
+Drowning,1999,397169
+Drowning,2000,387627
+Drowning,2001,375917
+Drowning,2002,361967
+Drowning,2003,347745
+Drowning,2004,338417
+Drowning,2005,332705
+Drowning,2006,319875
+Drowning,2007,311889
+Drowning,2008,304870
+Drowning,2009,296871
+Drowning,2010,290831
+Drowning,2011,281106
+Drowning,2012,275585
+Drowning,2013,266827
+Drowning,2014,258489
+Drowning,2015,254237
+Drowning,2016,248811
+Drowning,2017,241842
+Drowning,2018,240266
+Drowning,2019,237069
+Drug Use Disorders,1990,56133
+Drug Use Disorders,1991,61890
+Drug Use Disorders,1992,66826
+Drug Use Disorders,1993,71603
+Drug Use Disorders,1994,76717
+Drug Use Disorders,1995,79985
+Drug Use Disorders,1996,81704
+Drug Use Disorders,1997,82572
+Drug Use Disorders,1998,85087
+Drug Use Disorders,1999,87336
+Drug Use Disorders,2000,89690
+Drug Use Disorders,2001,87325
+Drug Use Disorders,2002,84750
+Drug Use Disorders,2003,82250
+Drug Use Disorders,2004,81843
+Drug Use Disorders,2005,84990
+Drug Use Disorders,2006,85421
+Drug Use Disorders,2007,85962
+Drug Use Disorders,2008,87077
+Drug Use Disorders,2009,87025
+Drug Use Disorders,2010,88079
+Drug Use Disorders,2011,89322
+Drug Use Disorders,2012,90934
+Drug Use Disorders,2013,94562
+Drug Use Disorders,2014,99295
+Drug Use Disorders,2015,105401
+Drug Use Disorders,2016,112875
+Drug Use Disorders,2017,118324
+Drug Use Disorders,2018,123095
+Drug Use Disorders,2019,128048
+Environmental Heat and Cold Exposure,1990,55072
+Environmental Heat and Cold Exposure,1991,56658
+Environmental Heat and Cold Exposure,1992,59926
+Environmental Heat and Cold Exposure,1993,66812
+Environmental Heat and Cold Exposure,1994,72305
+Environmental Heat and Cold Exposure,1995,72635
+Environmental Heat and Cold Exposure,1996,67602
+Environmental Heat and Cold Exposure,1997,63823
+Environmental Heat and Cold Exposure,1998,64858
+Environmental Heat and Cold Exposure,1999,63375
+Environmental Heat and Cold Exposure,2000,65450
+Environmental Heat and Cold Exposure,2001,66743
+Environmental Heat and Cold Exposure,2002,69939
+Environmental Heat and Cold Exposure,2003,71950
+Environmental Heat and Cold Exposure,2004,67144
+Environmental Heat and Cold Exposure,2005,68382
+Environmental Heat and Cold Exposure,2006,64630
+Environmental Heat and Cold Exposure,2007,59791
+Environmental Heat and Cold Exposure,2008,57763
+Environmental Heat and Cold Exposure,2009,54835
+Environmental Heat and Cold Exposure,2010,58674
+Environmental Heat and Cold Exposure,2011,51638
+Environmental Heat and Cold Exposure,2012,51418
+Environmental Heat and Cold Exposure,2013,49503
+Environmental Heat and Cold Exposure,2014,48775
+Environmental Heat and Cold Exposure,2015,51665
+Environmental Heat and Cold Exposure,2016,47495
+Environmental Heat and Cold Exposure,2017,46276
+Environmental Heat and Cold Exposure,2018,46272
+Environmental Heat and Cold Exposure,2019,47442
+Exposure to Forces of Nature,1990,50216
+Exposure to Forces of Nature,1991,156552
+Exposure to Forces of Nature,1992,12030
+Exposure to Forces of Nature,1993,21369
+Exposure to Forces of Nature,1994,12717
+Exposure to Forces of Nature,1995,19169
+Exposure to Forces of Nature,1996,14866
+Exposure to Forces of Nature,1997,17852
+Exposure to Forces of Nature,1998,48134
+Exposure to Forces of Nature,1999,69591
+Exposure to Forces of Nature,2000,8918
+Exposure to Forces of Nature,2001,29497
+Exposure to Forces of Nature,2002,8908
+Exposure to Forces of Nature,2003,35474
+Exposure to Forces of Nature,2004,242430
+Exposure to Forces of Nature,2005,88718
+Exposure to Forces of Nature,2006,19918
+Exposure to Forces of Nature,2007,16200
+Exposure to Forces of Nature,2008,235751
+Exposure to Forces of Nature,2009,10975
+Exposure to Forces of Nature,2010,241002
+Exposure to Forces of Nature,2011,31850
+Exposure to Forces of Nature,2012,8959
+Exposure to Forces of Nature,2013,26906
+Exposure to Forces of Nature,2014,7412
+Exposure to Forces of Nature,2015,15583
+Exposure to Forces of Nature,2016,8672
+Exposure to Forces of Nature,2017,13309
+Exposure to Forces of Nature,2018,11082
+Exposure to Forces of Nature,2019,6072
+"Fire, Heat, and Hot Substances",1990,123123
+"Fire, Heat, and Hot Substances",1991,123941
+"Fire, Heat, and Hot Substances",1992,124995
+"Fire, Heat, and Hot Substances",1993,127493
+"Fire, Heat, and Hot Substances",1994,129611
+"Fire, Heat, and Hot Substances",1995,128523
+"Fire, Heat, and Hot Substances",1996,126804
+"Fire, Heat, and Hot Substances",1997,126274
+"Fire, Heat, and Hot Substances",1998,124746
+"Fire, Heat, and Hot Substances",1999,125921
+"Fire, Heat, and Hot Substances",2000,126659
+"Fire, Heat, and Hot Substances",2001,126427
+"Fire, Heat, and Hot Substances",2002,125532
+"Fire, Heat, and Hot Substances",2003,125730
+"Fire, Heat, and Hot Substances",2004,123651
+"Fire, Heat, and Hot Substances",2005,124166
+"Fire, Heat, and Hot Substances",2006,121265
+"Fire, Heat, and Hot Substances",2007,119600
+"Fire, Heat, and Hot Substances",2008,118269
+"Fire, Heat, and Hot Substances",2009,116177
+"Fire, Heat, and Hot Substances",2010,115329
+"Fire, Heat, and Hot Substances",2011,113655
+"Fire, Heat, and Hot Substances",2012,112090
+"Fire, Heat, and Hot Substances",2013,111818
+"Fire, Heat, and Hot Substances",2014,110102
+"Fire, Heat, and Hot Substances",2015,110167
+"Fire, Heat, and Hot Substances",2016,109840
+"Fire, Heat, and Hot Substances",2017,109165
+"Fire, Heat, and Hot Substances",2018,110642
+"Fire, Heat, and Hot Substances",2019,111199
+HIV/AIDS,1990,336059
+HIV/AIDS,1991,430725
+HIV/AIDS,1992,540070
+HIV/AIDS,1993,664463
+HIV/AIDS,1994,800169
+HIV/AIDS,1995,938440
+HIV/AIDS,1996,1061580
+HIV/AIDS,1997,1174154
+HIV/AIDS,1998,1303651
+HIV/AIDS,1999,1439777
+HIV/AIDS,2000,1559389
+HIV/AIDS,2001,1662064
+HIV/AIDS,2002,1746104
+HIV/AIDS,2003,1808445
+HIV/AIDS,2004,1842954
+HIV/AIDS,2005,1832074
+HIV/AIDS,2006,1767868
+HIV/AIDS,2007,1669306
+HIV/AIDS,2008,1559499
+HIV/AIDS,2009,1453258
+HIV/AIDS,2010,1364619
+HIV/AIDS,2011,1283719
+HIV/AIDS,2012,1198698
+HIV/AIDS,2013,1126196
+HIV/AIDS,2014,1072970
+HIV/AIDS,2015,1029667
+HIV/AIDS,2016,996098
+HIV/AIDS,2017,947006
+HIV/AIDS,2018,892341
+HIV/AIDS,2019,863056
+Interpersonal Violence,1990,372497
+Interpersonal Violence,1991,383689
+Interpersonal Violence,1992,407176
+Interpersonal Violence,1993,432858
+Interpersonal Violence,1994,441971
+Interpersonal Violence,1995,444246
+Interpersonal Violence,1996,432673
+Interpersonal Violence,1997,427316
+Interpersonal Violence,1998,431984
+Interpersonal Violence,1999,440642
+Interpersonal Violence,2000,450393
+Interpersonal Violence,2001,451206
+Interpersonal Violence,2002,462331
+Interpersonal Violence,2003,446701
+Interpersonal Violence,2004,440855
+Interpersonal Violence,2005,435946
+Interpersonal Violence,2006,427355
+Interpersonal Violence,2007,420025
+Interpersonal Violence,2008,422800
+Interpersonal Violence,2009,422750
+Interpersonal Violence,2010,417449
+Interpersonal Violence,2011,413880
+Interpersonal Violence,2012,417694
+Interpersonal Violence,2013,415620
+Interpersonal Violence,2014,413371
+Interpersonal Violence,2015,416362
+Interpersonal Violence,2016,412500
+Interpersonal Violence,2017,417143
+Interpersonal Violence,2018,419249
+Interpersonal Violence,2019,414157
+Lower Respiratory Infections,1990,3318264
+Lower Respiratory Infections,1991,3282941
+Lower Respiratory Infections,1992,3258792
+Lower Respiratory Infections,1993,3226972
+Lower Respiratory Infections,1994,3187285
+Lower Respiratory Infections,1995,3148775
+Lower Respiratory Infections,1996,3091233
+Lower Respiratory Infections,1997,3047670
+Lower Respiratory Infections,1998,2999755
+Lower Respiratory Infections,1999,2950639
+Lower Respiratory Infections,2000,2895698
+Lower Respiratory Infections,2001,2830457
+Lower Respiratory Infections,2002,2788706
+Lower Respiratory Infections,2003,2746549
+Lower Respiratory Infections,2004,2697064
+Lower Respiratory Infections,2005,2677818
+Lower Respiratory Infections,2006,2645926
+Lower Respiratory Infections,2007,2617221
+Lower Respiratory Infections,2008,2603124
+Lower Respiratory Infections,2009,2571405
+Lower Respiratory Infections,2010,2545622
+Lower Respiratory Infections,2011,2527899
+Lower Respiratory Infections,2012,2526051
+Lower Respiratory Infections,2013,2537037
+Lower Respiratory Infections,2014,2532104
+Lower Respiratory Infections,2015,2533068
+Lower Respiratory Infections,2016,2516135
+Lower Respiratory Infections,2017,2487918
+Lower Respiratory Infections,2018,2486438
+Lower Respiratory Infections,2019,2491472
+Malaria,1990,840297
+Malaria,1991,858984
+Malaria,1992,856415
+Malaria,1993,862216
+Malaria,1994,855671
+Malaria,1995,862626
+Malaria,1996,872476
+Malaria,1997,892946
+Malaria,1998,901338
+Malaria,1999,893788
+Malaria,2000,882055
+Malaria,2001,912709
+Malaria,2002,929195
+Malaria,2003,959654
+Malaria,2004,960784
+Malaria,2005,940540
+Malaria,2006,941746
+Malaria,2007,940193
+Malaria,2008,932910
+Malaria,2009,917796
+Malaria,2010,909814
+Malaria,2011,868564
+Malaria,2012,806183
+Malaria,2013,751776
+Malaria,2014,724324
+Malaria,2015,702890
+Malaria,2016,660364
+Malaria,2017,629653
+Malaria,2018,631568
+Malaria,2019,643201
+Maternal Disorders,1990,302419
+Maternal Disorders,1991,298271
+Maternal Disorders,1992,299300
+Maternal Disorders,1993,293564
+Maternal Disorders,1994,293148
+Maternal Disorders,1995,290551
+Maternal Disorders,1996,287746
+Maternal Disorders,1997,289467
+Maternal Disorders,1998,289304
+Maternal Disorders,1999,288836
+Maternal Disorders,2000,287027
+Maternal Disorders,2001,282455
+Maternal Disorders,2002,276253
+Maternal Disorders,2003,269425
+Maternal Disorders,2004,265279
+Maternal Disorders,2005,264407
+Maternal Disorders,2006,259261
+Maternal Disorders,2007,252551
+Maternal Disorders,2008,247899
+Maternal Disorders,2009,244175
+Maternal Disorders,2010,239749
+Maternal Disorders,2011,234669
+Maternal Disorders,2012,227177
+Maternal Disorders,2013,223473
+Maternal Disorders,2014,214881
+Maternal Disorders,2015,208450
+Maternal Disorders,2016,203737
+Maternal Disorders,2017,199197
+Maternal Disorders,2018,198069
+Maternal Disorders,2019,196306
+Meningitis,1990,432253
+Meningitis,1991,428621
+Meningitis,1992,426440
+Meningitis,1993,420836
+Meningitis,1994,413799
+Meningitis,1995,409826
+Meningitis,1996,417259
+Meningitis,1997,400893
+Meningitis,1998,393364
+Meningitis,1999,390136
+Meningitis,2000,385994
+Meningitis,2001,379912
+Meningitis,2002,372298
+Meningitis,2003,369171
+Meningitis,2004,363462
+Meningitis,2005,361809
+Meningitis,2006,358973
+Meningitis,2007,352747
+Meningitis,2008,343452
+Meningitis,2009,336868
+Meningitis,2010,326778
+Meningitis,2011,312733
+Meningitis,2012,300091
+Meningitis,2013,289502
+Meningitis,2014,280438
+Meningitis,2015,267789
+Meningitis,2016,261246
+Meningitis,2017,250132
+Meningitis,2018,241666
+Meningitis,2019,236084
+Neonatal Disorders,1990,3004581
+Neonatal Disorders,1991,2975087
+Neonatal Disorders,1992,2950376
+Neonatal Disorders,1993,2924485
+Neonatal Disorders,1994,2896505
+Neonatal Disorders,1995,2873608
+Neonatal Disorders,1996,2841042
+Neonatal Disorders,1997,2817527
+Neonatal Disorders,1998,2793540
+Neonatal Disorders,1999,2766241
+Neonatal Disorders,2000,2739290
+Neonatal Disorders,2001,2710195
+Neonatal Disorders,2002,2691320
+Neonatal Disorders,2003,2671242
+Neonatal Disorders,2004,2647814
+Neonatal Disorders,2005,2620556
+Neonatal Disorders,2006,2587061
+Neonatal Disorders,2007,2549184
+Neonatal Disorders,2008,2515772
+Neonatal Disorders,2009,2475066
+Neonatal Disorders,2010,2428939
+Neonatal Disorders,2011,2383664
+Neonatal Disorders,2012,2339979
+Neonatal Disorders,2013,2299343
+Neonatal Disorders,2014,2237472
+Neonatal Disorders,2015,2183143
+Neonatal Disorders,2016,2099079
+Neonatal Disorders,2017,2014896
+Neonatal Disorders,2018,1942350
+Neonatal Disorders,2019,1881372
+Neoplasms,1990,5752596
+Neoplasms,1991,5867965
+Neoplasms,1992,5996098
+Neoplasms,1993,6167069
+Neoplasms,1994,6296066
+Neoplasms,1995,6402881
+Neoplasms,1996,6490603
+Neoplasms,1997,6586074
+Neoplasms,1998,6703169
+Neoplasms,1999,6857548
+Neoplasms,2000,7001927
+Neoplasms,2001,7114269
+Neoplasms,2002,7253993
+Neoplasms,2003,7388299
+Neoplasms,2004,7504504
+Neoplasms,2005,7653588
+Neoplasms,2006,7722732
+Neoplasms,2007,7850705
+Neoplasms,2008,8027173
+Neoplasms,2009,8167640
+Neoplasms,2010,8329288
+Neoplasms,2011,8468793
+Neoplasms,2012,8611952
+Neoplasms,2013,8757263
+Neoplasms,2014,8920309
+Neoplasms,2015,9133616
+Neoplasms,2016,9336894
+Neoplasms,2017,9529491
+Neoplasms,2018,9791758
+Neoplasms,2019,10074275
+Nutritional Deficiencies,1990,756808
+Nutritional Deficiencies,1991,729145
+Nutritional Deficiencies,1992,700664
+Nutritional Deficiencies,1993,674219
+Nutritional Deficiencies,1994,649801
+Nutritional Deficiencies,1995,723095
+Nutritional Deficiencies,1996,671977
+Nutritional Deficiencies,1997,647682
+Nutritional Deficiencies,1998,620498
+Nutritional Deficiencies,1999,593417
+Nutritional Deficiencies,2000,568454
+Nutritional Deficiencies,2001,542565
+Nutritional Deficiencies,2002,517754
+Nutritional Deficiencies,2003,417264
+Nutritional Deficiencies,2004,393952
+Nutritional Deficiencies,2005,376740
+Nutritional Deficiencies,2006,362476
+Nutritional Deficiencies,2007,347407
+Nutritional Deficiencies,2008,335623
+Nutritional Deficiencies,2009,322879
+Nutritional Deficiencies,2010,322187
+Nutritional Deficiencies,2011,314327
+Nutritional Deficiencies,2012,298117
+Nutritional Deficiencies,2013,291451
+Nutritional Deficiencies,2014,284578
+Nutritional Deficiencies,2015,278793
+Nutritional Deficiencies,2016,273191
+Nutritional Deficiencies,2017,267463
+Nutritional Deficiencies,2018,258094
+Nutritional Deficiencies,2019,251411
+Parkinson's Disease,1990,147156
+Parkinson's Disease,1991,150875
+Parkinson's Disease,1992,154886
+Parkinson's Disease,1993,160249
+Parkinson's Disease,1994,164381
+Parkinson's Disease,1995,168882
+Parkinson's Disease,1996,173822
+Parkinson's Disease,1997,179347
+Parkinson's Disease,1998,185097
+Parkinson's Disease,1999,191538
+Parkinson's Disease,2000,198545
+Parkinson's Disease,2001,206194
+Parkinson's Disease,2002,214930
+Parkinson's Disease,2003,222256
+Parkinson's Disease,2004,227695
+Parkinson's Disease,2005,236498
+Parkinson's Disease,2006,242749
+Parkinson's Disease,2007,250475
+Parkinson's Disease,2008,260382
+Parkinson's Disease,2009,267738
+Parkinson's Disease,2010,276188
+Parkinson's Disease,2011,284488
+Parkinson's Disease,2012,293123
+Parkinson's Disease,2013,303488
+Parkinson's Disease,2014,312928
+Parkinson's Disease,2015,321782
+Parkinson's Disease,2016,330736
+Parkinson's Disease,2017,339343
+Parkinson's Disease,2018,351322
+Parkinson's Disease,2019,362702
+Poisonings,1990,87951
+Poisonings,1991,87813
+Poisonings,1992,88435
+Poisonings,1993,90036
+Poisonings,1994,90897
+Poisonings,1995,90353
+Poisonings,1996,88861
+Poisonings,1997,87371
+Poisonings,1998,86679
+Poisonings,1999,87333
+Poisonings,2000,88799
+Poisonings,2001,89294
+Poisonings,2002,89920
+Poisonings,2003,90634
+Poisonings,2004,91455
+Poisonings,2005,92064
+Poisonings,2006,89859
+Poisonings,2007,88475
+Poisonings,2008,88687
+Poisonings,2009,87902
+Poisonings,2010,87632
+Poisonings,2011,86099
+Poisonings,2012,84595
+Poisonings,2013,83618
+Poisonings,2014,81976
+Poisonings,2015,80974
+Poisonings,2016,79951
+Poisonings,2017,78484
+Poisonings,2018,77805
+Poisonings,2019,77130
+Protein-Energy Malnutrition,1990,655975
+Protein-Energy Malnutrition,1991,631013
+Protein-Energy Malnutrition,1992,606015
+Protein-Energy Malnutrition,1993,583919
+Protein-Energy Malnutrition,1994,564046
+Protein-Energy Malnutrition,1995,641084
+Protein-Energy Malnutrition,1996,593826
+Protein-Energy Malnutrition,1997,572372
+Protein-Energy Malnutrition,1998,549543
+Protein-Energy Malnutrition,1999,527431
+Protein-Energy Malnutrition,2000,505874
+Protein-Energy Malnutrition,2001,483074
+Protein-Energy Malnutrition,2002,462083
+Protein-Energy Malnutrition,2003,365742
+Protein-Energy Malnutrition,2004,345527
+Protein-Energy Malnutrition,2005,329849
+Protein-Energy Malnutrition,2006,316210
+Protein-Energy Malnutrition,2007,302088
+Protein-Energy Malnutrition,2008,290690
+Protein-Energy Malnutrition,2009,279325
+Protein-Energy Malnutrition,2010,279144
+Protein-Energy Malnutrition,2011,271516
+Protein-Energy Malnutrition,2012,255541
+Protein-Energy Malnutrition,2013,249435
+Protein-Energy Malnutrition,2014,242956
+Protein-Energy Malnutrition,2015,237723
+Protein-Energy Malnutrition,2016,232544
+Protein-Energy Malnutrition,2017,227038
+Protein-Energy Malnutrition,2018,218222
+Protein-Energy Malnutrition,2019,212080
+Road Injuries,1990,1112770
+Road Injuries,1991,1117024
+Road Injuries,1992,1125566
+Road Injuries,1993,1137444
+Road Injuries,1994,1153642
+Road Injuries,1995,1162799
+Road Injuries,1996,1162809
+Road Injuries,1997,1169798
+Road Injuries,1998,1177827
+Road Injuries,1999,1195303
+Road Injuries,2000,1212355
+Road Injuries,2001,1224220
+Road Injuries,2002,1237109
+Road Injuries,2003,1248216
+Road Injuries,2004,1258547
+Road Injuries,2005,1269243
+Road Injuries,2006,1267492
+Road Injuries,2007,1273318
+Road Injuries,2008,1284333
+Road Injuries,2009,1281669
+Road Injuries,2010,1278839
+Road Injuries,2011,1267737
+Road Injuries,2012,1255450
+Road Injuries,2013,1232221
+Road Injuries,2014,1213989
+Road Injuries,2015,1201418
+Road Injuries,2016,1193556
+Road Injuries,2017,1188281
+Road Injuries,2018,1195919
+Road Injuries,2019,1197575
+Self-harm,1990,738804
+Self-harm,1991,752575
+Self-harm,1992,770286
+Self-harm,1993,791904
+Self-harm,1994,817682
+Self-harm,1995,825922
+Self-harm,1996,820128
+Self-harm,1997,822649
+Self-harm,1998,829842
+Self-harm,1999,840850
+Self-harm,2000,839249
+Self-harm,2001,820745
+Self-harm,2002,811199
+Self-harm,2003,814533
+Self-harm,2004,819290
+Self-harm,2005,826133
+Self-harm,2006,814138
+Self-harm,2007,802521
+Self-harm,2008,797570
+Self-harm,2009,785883
+Self-harm,2010,784456
+Self-harm,2011,777218
+Self-harm,2012,767020
+Self-harm,2013,755568
+Self-harm,2014,744751
+Self-harm,2015,742648
+Self-harm,2016,742925
+Self-harm,2017,743620
+Self-harm,2018,755125
+Self-harm,2019,758697
+Tuberculosis,1990,1776727
+Tuberculosis,1991,1786389
+Tuberculosis,1992,1807740
+Tuberculosis,1993,1774711
+Tuberculosis,1994,1753811
+Tuberculosis,1995,1738759
+Tuberculosis,1996,1720903
+Tuberculosis,1997,1726038
+Tuberculosis,1998,1724307
+Tuberculosis,1999,1719130
+Tuberculosis,2000,1714428
+Tuberculosis,2001,1682360
+Tuberculosis,2002,1649490
+Tuberculosis,2003,1612262
+Tuberculosis,2004,1558519
+Tuberculosis,2005,1532479
+Tuberculosis,2006,1499369
+Tuberculosis,2007,1470117
+Tuberculosis,2008,1447516
+Tuberculosis,2009,1405491
+Tuberculosis,2010,1364942
+Tuberculosis,2011,1331697
+Tuberculosis,2012,1318198
+Tuberculosis,2013,1307485
+Tuberculosis,2014,1294816
+Tuberculosis,2015,1267556
+Tuberculosis,2016,1249524
+Tuberculosis,2017,1231689
+Tuberculosis,2018,1204916
+Tuberculosis,2019,1179234
