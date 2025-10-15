@@ -16,16 +16,15 @@
         
         body {
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            /* background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); */
             min-height: 100vh;
-            padding: 20px;
+            /* padding: 20px; */
         }
         
         .dashboard-container {
             max-width: 1600px;
             margin: 0 auto;
             background: white;
-            border-radius: 15px;
             box-shadow: 0 20px 40px rgba(0,0,0,0.1);
             overflow: hidden;
         }
@@ -33,7 +32,7 @@
         .header {
             background: linear-gradient(135deg, #2c3e50 0%, #34495e 100%);
             color: white;
-            padding: 40px;
+            padding: 40px 20px;
             text-align: center;
         }
         
@@ -44,7 +43,7 @@
         }
         
         .header p {
-            font-size: 1.2rem;
+            font-size: 1rem;
             opacity: 0.9;
             max-width: 800px;
             margin: 0 auto;
@@ -216,6 +215,18 @@
         </div>
 
         <div class="section-header">
+            <h2>🗺️ Geographic Distribution of Major Causes</h2>
+        </div>
+        
+        <div class="dashboard-grid">
+            <div class="chart-container full-width">
+                <div class="chart-title">Cardiovascular Disease Deaths by Country (2019)</div>
+                <div class="chart-description">Global distribution of cardiovascular disease mortality - the leading cause of death worldwide</div>
+                <div id="mortality-rate-map" class="loading">Loading map...</div>
+            </div>
+        </div>
+
+        <div class="section-header">
             <h2>🔍 Detailed Analysis & Comparisons</h2>
         </div>
         
@@ -243,6 +254,8 @@
         // Load all visualizations
         const charts = [
             {id: 'cause-distribution', file: 'death_cause_distribution.json'},
+            {id: 'mortality-rate-map', file: 'mortality_rate.json'},
+            {id: 'empty-map', file: 'empty_map.json'}
             // { id: 'cardio-map', file: '1_cardiovascular_deaths_map.json' },
             // { id: 'cancer-map', file: '2_cancer_deaths_map.json' },
             // { id: 'leading-causes', file: '3_leading_causes_bar.json' },
