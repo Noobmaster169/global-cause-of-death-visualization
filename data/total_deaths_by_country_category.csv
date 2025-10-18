@@ -1,0 +1,817 @@
+category,country,year,total_deaths,ratio
+External Causes,Afghanistan,2019,42061,0.19325862314545514
+External Causes,Albania,2019,572,0.025725208005396898
+External Causes,Algeria,2019,14738,0.07664584709314723
+External Causes,American Samoa,2019,16,0.044444444444444446
+External Causes,Andorra,2019,16,0.027257240204429302
+External Causes,Angola,2019,14054,0.08107765085958232
+External Causes,Antigua and Barbuda,2019,21,0.03633217993079585
+External Causes,Argentina,2019,15783,0.04682660242336494
+External Causes,Armenia,2019,834,0.02982405950507796
+External Causes,Australia,2019,5204,0.03234407532863047
+External Causes,Austria,2019,2154,0.027043654032065687
+External Causes,Azerbaijan,2019,2493,0.03283589952978676
+External Causes,Bahamas,2019,265,0.10343481654957065
+External Causes,Bahrain,2019,311,0.07656326932545544
+External Causes,Bangladesh,2019,29880,0.03616894820747032
+External Causes,Barbados,2019,94,0.03294777427269541
+External Causes,Belarus,2019,6391,0.0529288512343992
+External Causes,Belgium,2019,3554,0.03292508939986289
+External Causes,Belize,2019,253,0.1329479768786127
+External Causes,Benin,2019,4570,0.05537313251990161
+External Causes,Bermuda,2019,14,0.025134649910233394
+External Causes,Bhutan,2019,145,0.03625906476619155
+External Causes,Bolivia,2019,4182,0.05711398213651635
+External Causes,Bosnia and Herzegovina,2019,773,0.020773985487772106
+External Causes,Botswana,2019,1707,0.08217002021757967
+External Causes,Brazil,2019,131998,0.09859499996265285
+External Causes,Brunei,2019,115,0.06508205998868138
+External Causes,Bulgaria,2019,2385,0.01910828025477707
+External Causes,Burkina Faso,2019,12057,0.0689109250421513
+External Causes,Burundi,2019,3861,0.04801581873126811
+External Causes,Cabo Verde,2019,265,0.07730455075845974
+External Causes,Cambodia,2019,5531,0.04946784724085502
+External Causes,Cameroon,2019,11961,0.06253430995812224
+External Causes,Canada,2019,8582,0.031327227529412624
+External Causes,Central African Rep.,2019,5044,0.07884083342451194
+External Causes,Chad,2019,6662,0.047163933961997
+External Causes,Chile,2019,5877,0.05285119470498836
+External Causes,China,2019,483177,0.04626997151369286
+External Causes,Colombia,2019,28440,0.12042580940202065
+External Causes,Comoros,2019,314,0.06450287592440428
+External Causes,Congo,2019,2451,0.07097558856745721
+External Causes,Cook Islands,2019,7,0.04242424242424243
+External Causes,Costa Rica,2019,1916,0.08084388185654008
+External Causes,Cote d'Ivoire,2019,9222,0.05425535670161319
+External Causes,Croatia,2019,1267,0.02480228643019341
+External Causes,Cuba,2019,3840,0.037887383698558506
+External Causes,Cyprus,2019,263,0.031983461023957195
+External Causes,Czechia,2019,2776,0.02486096309364953
+External Causes,Dem. Rep. Congo,2019,45004,0.08636959446362533
+External Causes,Denmark,2019,1136,0.021345759972941993
+External Causes,Djibouti,2019,427,0.05912489615065079
+External Causes,Dominica,2019,31,0.044349070100143065
+External Causes,Dominican Republic,2019,5854,0.08423385182094191
+External Causes,Ecuador,2019,9253,0.10252063597584621
+External Causes,Egypt,2019,36478,0.06027488706100854
+External Causes,El Salvador,2019,5126,0.1283200240318422
+External Causes,Equatorial Guinea,2019,455,0.06337930073826438
+External Causes,Eritrea,2019,2975,0.06988161232735131
+External Causes,Estonia,2019,503,0.031997455470737915
+External Causes,Ethiopia,2019,29370,0.05530000771978317
+External Causes,Fiji,2019,297,0.041492036881810565
+External Causes,Finland,2019,1505,0.027770601911650736
+External Causes,France,2019,19504,0.03434304660716267
+External Causes,Gabon,2019,853,0.07456293706293707
+External Causes,Gambia,2019,527,0.04192521877486078
+External Causes,Georgia,2019,1373,0.02755755374024045
+External Causes,Germany,2019,18142,0.01947145235225491
+External Causes,Ghana,2019,10386,0.05222927373852173
+External Causes,Greece,2019,2434,0.019229401866057816
+External Causes,Greenland,2019,48,0.1054945054945055
+External Causes,Grenada,2019,29,0.03741935483870968
+External Causes,Guam,2019,62,0.05595667870036101
+External Causes,Guatemala,2019,10910,0.11593309672071919
+External Causes,Guinea,2019,5335,0.05205690644393271
+External Causes,Guinea-Bissau,2019,956,0.07189050985110543
+External Causes,Guyana,2019,670,0.1026662580447441
+External Causes,Haiti,2019,8204,0.08951250381879282
+External Causes,Honduras,2019,5065,0.09818555422013725
+External Causes,Hungary,2019,3363,0.026301382719139087
+External Causes,Iceland,2019,56,0.0278468423669816
+External Causes,India,2019,546233,0.0619821492662844
+External Causes,Indonesia,2019,55139,0.03218587123199873
+External Causes,Iran,2019,31145,0.08281482663263136
+External Causes,Iraq,2019,16205,0.09802557557133697
+External Causes,Ireland,2019,729,0.0234926363958622
+External Causes,Israel,2019,1466,0.03271810208226393
+External Causes,Italy,2019,11194,0.017922702142750786
+External Causes,Jamaica,2019,728,0.038953395045213765
+External Causes,Japan,2019,44349,0.0323768974859338
+External Causes,Jordan,2019,2266,0.07521242697822624
+External Causes,Kazakhstan,2019,11380,0.08111305934510826
+External Causes,Kenya,2019,14956,0.05189865950440181
+External Causes,Kiribati,2019,66,0.05871886120996441
+External Causes,Kuwait,2019,839,0.08820437342304457
+External Causes,Kyrgyzstan,2019,2410,0.0685204139656545
+External Causes,Laos,2019,2615,0.06156127877960356
+External Causes,Latvia,2019,1074,0.0398604513064133
+External Causes,Lebanon,2019,1033,0.03134957967891718
+External Causes,Lesotho,2019,2717,0.08495403664561316
+External Causes,Liberia,2019,1158,0.04153068177742711
+External Causes,Libya,2019,3970,0.13000196476521056
+External Causes,Lithuania,2019,1780,0.04677071837721373
+External Causes,Luxembourg,2019,122,0.030653266331658293
+External Causes,Madagascar,2019,6470,0.041220167938736764
+External Causes,Malawi,2019,4730,0.04217452943746489
+External Causes,Malaysia,2019,11277,0.06723185061973494
+External Causes,Maldives,2019,77,0.05604075691411936
+External Causes,Mali,2019,9640,0.05114004095447263
+External Causes,Malta,2019,52,0.014484679665738161
+External Causes,Marshall Islands,2019,34,0.08333333333333333
+External Causes,Mauritania,2019,1335,0.06613166889582404
+External Causes,Mauritius,2019,372,0.03513411409142425
+External Causes,Mexico,2019,63724,0.08641690692458116
+External Causes,Micronesia,2019,69,0.07516339869281045
+External Causes,Moldova,2019,1754,0.04128710307652473
+External Causes,Monaco,2019,8,0.015594541910331383
+External Causes,Mongolia,2019,2174,0.08602405824628047
+External Causes,Montenegro,2019,226,0.033620946146980066
+External Causes,Morocco,2019,13598,0.061346759422172895
+External Causes,Mozambique,2019,12213,0.04908564768297094
+External Causes,Myanmar,2019,13492,0.03319481656985255
+External Causes,Namibia,2019,1481,0.07991150919980575
+External Causes,Nauru,2019,7,0.1111111111111111
+External Causes,Nepal,2019,9316,0.04998309931699779
+External Causes,Netherlands,2019,3189,0.0216339793903953
+External Causes,New Zealand,2019,1012,0.030993507288986893
+External Causes,Nicaragua,2019,1714,0.05873081140350877
+External Causes,Niger,2019,8319,0.04783371187074145
+External Causes,Nigeria,2019,54259,0.037692948940604376
+External Causes,Niue,2019,0,0.0
+External Causes,North Korea,2019,14374,0.061433913879688
+External Causes,North Macedonia,2019,475,0.01985453937468651
+External Causes,Northern Mariana Islands,2019,20,0.05813953488372093
+External Causes,Norway,2019,954,0.02467475364043142
+External Causes,Oman,2019,2371,0.2016327919040735
+External Causes,Pakistan,2019,60005,0.042499649407108465
+External Causes,Palau,2019,11,0.054455445544554455
+External Causes,Palestine,2019,978,0.061906570451955946
+External Causes,Panama,2019,1514,0.07875572201414897
+External Causes,Papua New Guinea,2019,4791,0.07571830451686316
+External Causes,Paraguay,2019,3027,0.09290120615044656
+External Causes,Peru,2019,8165,0.05481300474620874
+External Causes,Philippines,2019,37690,0.06181181263263546
+External Causes,Poland,2019,12960,0.03232355479291476
+External Causes,Portugal,2019,2793,0.02482556330829741
+External Causes,Puerto Rico,2019,1422,0.044940269262372795
+External Causes,Qatar,2019,979,0.23698862260953765
+External Causes,Romania,2019,6486,0.024207363726276895
+External Causes,Russia,2019,110806,0.062347831420142545
+External Causes,Rwanda,2019,4289,0.06447200300638857
+External Causes,S. Sudan,2019,3595,0.05296266831668582
+External Causes,Saint Kitts and Nevis,2019,22,0.045548654244306416
+External Causes,Saint Lucia,2019,83,0.06161841128433556
+External Causes,Saint Vincent and the Grenadines,2019,51,0.05198776758409786
+External Causes,Samoa,2019,87,0.06561085972850679
+External Causes,San Marino,2019,7,0.02356902356902357
+External Causes,Sao Tome and Principe,2019,41,0.04257528556593977
+External Causes,Saudi Arabia,2019,25216,0.2143069614067294
+External Causes,Senegal,2019,3956,0.04734379300853289
+External Causes,Serbia,2019,2755,0.023629813877691055
+External Causes,Seychelles,2019,45,0.05739795918367347
+External Causes,Sierra Leone,2019,2908,0.04543466033372914
+External Causes,Singapore,2019,692,0.030865298840321142
+External Causes,Slovakia,2019,1564,0.02880347704377613
+External Causes,Slovenia,2019,616,0.030466392996686284
+External Causes,Solomon Islands,2019,501,0.08600858369098713
+External Causes,Somalia,2019,11433,0.06914549402166353
+External Causes,South Africa,2019,50953,0.1008193688426143
+External Causes,South Korea,2019,23964,0.0763063206495781
+External Causes,Spain,2019,7496,0.018194793026947518
+External Causes,Sri Lanka,2019,10188,0.07741288391106789
+External Causes,Sudan,2019,13142,0.07171584329689878
+External Causes,Suriname,2019,339,0.08180501930501931
+External Causes,Sweden,2019,2131,0.023845757894501263
+External Causes,Switzerland,2019,1679,0.025500827751704865
+External Causes,Syria,2019,9801,0.11823391036853852
+External Causes,Taiwan,2019,9302,0.05093581277173615
+External Causes,Tajikistan,2019,2336,0.049842109755056756
+External Causes,Tanzania,2019,16266,0.049608402869272435
+External Causes,Thailand,2019,36155,0.07457222295558048
+External Causes,Timor,2019,347,0.04644004282655246
+External Causes,Togo,2019,3045,0.060593397409109906
+External Causes,Tokelau,2019,0,0.0
+External Causes,Tonga,2019,26,0.0405616224648986
+External Causes,Trinidad and Tobago,2019,718,0.06356232294617564
+External Causes,Tunisia,2019,3408,0.05179567457482864
+External Causes,Turkey,2019,13858,0.031573167592050436
+External Causes,Turkmenistan,2019,1356,0.03933284989122553
+External Causes,Tuvalu,2019,7,0.0673076923076923
+External Causes,Uganda,2019,12233,0.054928919741722274
+External Causes,Ukraine,2019,36082,0.05129408018378412
+External Causes,United Arab Emirates,2019,5002,0.1842560872287914
+External Causes,United Kingdom,2019,9601,0.01617048654620909
+External Causes,United States Virgin Islands,2019,58,0.04654895666131621
+External Causes,United States of America,2019,114693,0.0404565983906674
+External Causes,Uruguay,2019,1598,0.04975248295401476
+External Causes,Uzbekistan,2019,12523,0.060176931615594204
+External Causes,Vanuatu,2019,160,0.07431490942870414
+External Causes,Venezuela,2019,20274,0.11181028539914518
+External Causes,Vietnam,2019,41262,0.06663135559007716
+External Causes,Yemen,2019,29674,0.1837467645856812
+External Causes,Zambia,2019,6382,0.053182890142582144
+External Causes,Zimbabwe,2019,8993,0.07279423668447467
+External Causes,eSwatini,2019,996,0.08827439510768413
+Infectious Disease,Afghanistan,2019,30995,0.14241342394126108
+Infectious Disease,Albania,2019,491,0.022082302675961323
+Infectious Disease,Algeria,2019,7573,0.03938383770093662
+Infectious Disease,American Samoa,2019,17,0.04722222222222222
+Infectious Disease,Andorra,2019,25,0.04258943781942078
+Infectious Disease,Angola,2019,67823,0.39127148955809393
+Infectious Disease,Antigua and Barbuda,2019,40,0.06920415224913495
+Infectious Disease,Argentina,2019,40014,0.11871758660384747
+Infectious Disease,Armenia,2019,658,0.023530253182663424
+Infectious Disease,Australia,2019,4719,0.029329687062991393
+Infectious Disease,Austria,2019,1449,0.018192318798729425
+Infectious Disease,Azerbaijan,2019,3327,0.04382071309089472
+Infectious Disease,Bahamas,2019,224,0.08743169398907104
+Infectious Disease,Bahrain,2019,119,0.0292959133431807
+Infectious Disease,Bangladesh,2019,106544,0.12896868868195172
+Infectious Disease,Barbados,2019,199,0.06975113915177007
+Infectious Disease,Belarus,2019,1828,0.015139092482628968
+Infectious Disease,Belgium,2019,7426,0.06879620536955032
+Infectious Disease,Belize,2019,220,0.11560693641618497
+Infectious Disease,Benin,2019,34382,0.41659497643309784
+Infectious Disease,Bermuda,2019,24,0.04308797127468582
+Infectious Disease,Bhutan,2019,450,0.11252813203300825
+Infectious Disease,Bolivia,2019,9693,0.13237824697495287
+Infectious Disease,Bosnia and Herzegovina,2019,556,0.014942219833378125
+Infectious Disease,Botswana,2019,8618,0.41484547992683163
+Infectious Disease,Brazil,2019,119564,0.08930750901933836
+Infectious Disease,Brunei,2019,114,0.06451612903225806
+Infectious Disease,Bulgaria,2019,2230,0.01786644233465529
+Infectious Disease,Burkina Faso,2019,81721,0.46707055696853655
+Infectious Disease,Burundi,2019,35298,0.4389697926900548
+Infectious Disease,Cabo Verde,2019,487,0.14206534422403733
+Infectious Disease,Cambodia,2019,21742,0.1944548788122708
+Infectious Disease,Cameroon,2019,90415,0.47270626493300083
+Infectious Disease,Canada,2019,11371,0.04150802892530307
+Infectious Disease,Central African Rep.,2019,33565,0.5246416680994732
+Infectious Disease,Chad,2019,73730,0.5219749100897686
+Infectious Disease,Chile,2019,6218,0.05591776904468566
+Infectious Disease,China,2019,269207,0.025779787161406095
+Infectious Disease,Colombia,2019,12605,0.053374378604517235
+Infectious Disease,Comoros,2019,1315,0.2701314708299096
+Infectious Disease,Congo,2019,12566,0.3638838212724061
+Infectious Disease,Cook Islands,2019,13,0.07878787878787878
+Infectious Disease,Costa Rica,2019,1036,0.04371308016877637
+Infectious Disease,Cote d'Ivoire,2019,77070,0.45342228811465285
+Infectious Disease,Croatia,2019,688,0.013468013468013467
+Infectious Disease,Cuba,2019,7867,0.07761980405118743
+Infectious Disease,Cyprus,2019,205,0.024930074182171958
+Infectious Disease,Czechia,2019,3794,0.033977843651767405
+Infectious Disease,Dem. Rep. Congo,2019,199366,0.3826140025294446
+Infectious Disease,Denmark,2019,2929,0.05503673500065766
+Infectious Disease,Djibouti,2019,2472,0.34228745499861535
+Infectious Disease,Dominica,2019,41,0.058655221745350504
+Infectious Disease,Dominican Republic,2019,4946,0.0711685396491935
+Infectious Disease,Ecuador,2019,7993,0.08856019057115949
+Infectious Disease,Egypt,2019,32913,0.054384213987580844
+Infectious Disease,El Salvador,2019,3439,0.08608906801512003
+Infectious Disease,Equatorial Guinea,2019,3621,0.5043877977434184
+Infectious Disease,Eritrea,2019,15888,0.37320304425443956
+Infectious Disease,Estonia,2019,291,0.018511450381679388
+Infectious Disease,Ethiopia,2019,179552,0.3380737822983489
+Infectious Disease,Fiji,2019,388,0.05420508521933501
+Infectious Disease,Finland,2019,904,0.016680813374174264
+Infectious Disease,France,2019,26458,0.0465877936388592
+Infectious Disease,Gabon,2019,3364,0.29405594405594404
+Infectious Disease,Gambia,2019,4446,0.35369928400954653
+Infectious Disease,Georgia,2019,1007,0.020211548883045983
+Infectious Disease,Germany,2019,30528,0.03276510293295325
+Infectious Disease,Ghana,2019,73081,0.3675108370965633
+Infectious Disease,Greece,2019,6229,0.04921115210504278
+Infectious Disease,Greenland,2019,19,0.041758241758241756
+Infectious Disease,Grenada,2019,54,0.0696774193548387
+Infectious Disease,Guam,2019,53,0.04783393501805054
+Infectious Disease,Guatemala,2019,14136,0.15021358893163028
+Infectious Disease,Guinea,2019,43276,0.42227079348971547
+Infectious Disease,Guinea-Bissau,2019,4943,0.3717100315836968
+Infectious Disease,Guyana,2019,590,0.09040760036775973
+Infectious Disease,Haiti,2019,19139,0.20882250250949244
+Infectious Disease,Honduras,2019,3083,0.05976427712945373
+Infectious Disease,Hungary,2019,1636,0.012794844522304949
+Infectious Disease,Iceland,2019,110,0.05469915464942814
+Infectious Disease,India,2019,1634033,0.18541698746145782
+Infectious Disease,Indonesia,2019,196970,0.1149758076237652
+Infectious Disease,Iran,2019,14219,0.03780844501169964
+Infectious Disease,Iraq,2019,5372,0.032495735388412356
+Infectious Disease,Ireland,2019,1812,0.05839321968354227
+Infectious Disease,Israel,2019,2219,0.049523511951257614
+Infectious Disease,Italy,2019,14723,0.02357298049381095
+Infectious Disease,Jamaica,2019,970,0.05190218845310075
+Infectious Disease,Japan,2019,126996,0.09271317218254412
+Infectious Disease,Jordan,2019,1272,0.04221986192246415
+Infectious Disease,Kazakhstan,2019,5258,0.037477369598996425
+Infectious Disease,Kenya,2019,121905,0.4230212681789317
+Infectious Disease,Kiribati,2019,162,0.14412811387900357
+Infectious Disease,Kuwait,2019,716,0.07527333894028596
+Infectious Disease,Kyrgyzstan,2019,1497,0.04256226543841692
+Infectious Disease,Laos,2019,7198,0.16945242243043457
+Infectious Disease,Latvia,2019,534,0.019818883610451307
+Infectious Disease,Lebanon,2019,1250,0.03793511577797336
+Infectious Disease,Lesotho,2019,16949,0.5299543493214933
+Infectious Disease,Liberia,2019,12110,0.43431481547896567
+Infectious Disease,Libya,2019,1164,0.038116445084812364
+Infectious Disease,Lithuania,2019,775,0.02036365547322508
+Infectious Disease,Luxembourg,2019,159,0.039949748743718594
+Infectious Disease,Madagascar,2019,55039,0.350651750105121
+Infectious Disease,Malawi,2019,48635,0.4336486763617558
+Infectious Disease,Malaysia,2019,27083,0.16146494726738328
+Infectious Disease,Maldives,2019,63,0.04585152838427948
+Infectious Disease,Mali,2019,63871,0.3388346012243902
+Infectious Disease,Malta,2019,199,0.05543175487465181
+Infectious Disease,Marshall Islands,2019,38,0.09313725490196079
+Infectious Disease,Mauritania,2019,6079,0.3011343934215089
+Infectious Disease,Mauritius,2019,431,0.04070646014355875
+Infectious Disease,Mexico,2019,35919,0.0487102014911812
+Infectious Disease,Micronesia,2019,105,0.11437908496732026
+Infectious Disease,Moldova,2019,1248,0.029376456464938916
+Infectious Disease,Monaco,2019,27,0.05263157894736842
+Infectious Disease,Mongolia,2019,1004,0.039727761949984175
+Infectious Disease,Montenegro,2019,76,0.011306158881285331
+Infectious Disease,Morocco,2019,12835,0.05790451957520144
+Infectious Disease,Mozambique,2019,135133,0.543117238053133
+Infectious Disease,Myanmar,2019,49030,0.1206301405588401
+Infectious Disease,Namibia,2019,7060,0.38094210327523875
+Infectious Disease,Nauru,2019,6,0.09523809523809523
+Infectious Disease,Nepal,2019,24322,0.13049473396178837
+Infectious Disease,Netherlands,2019,7004,0.047514704186368356
+Infectious Disease,New Zealand,2019,1017,0.031146637265711135
+Infectious Disease,Nicaragua,2019,1963,0.06726288377192982
+Infectious Disease,Niger,2019,91590,0.5266365753385275
+Infectious Disease,Nigeria,2019,720224,0.5003292810003473
+Infectious Disease,Niue,2019,1,0.05555555555555555
+Infectious Disease,North Korea,2019,11640,0.0497489047975211
+Infectious Disease,North Macedonia,2019,234,0.009780973081424511
+Infectious Disease,Northern Mariana Islands,2019,15,0.0436046511627907
+Infectious Disease,Norway,2019,2464,0.06373018131029666
+Infectious Disease,Oman,2019,604,0.05136491198231142
+Infectious Disease,Pakistan,2019,242474,0.17173668844828294
+Infectious Disease,Palau,2019,23,0.11386138613861387
+Infectious Disease,Palestine,2019,604,0.03823268768198506
+Infectious Disease,Panama,2019,1769,0.09202039117769455
+Infectious Disease,Papua New Guinea,2019,16413,0.2593956443404874
+Infectious Disease,Paraguay,2019,2534,0.07777061657919775
+Infectious Disease,Peru,2019,23937,0.16069306731292082
+Infectious Disease,Philippines,2019,103447,0.16965366360860282
+Infectious Disease,Poland,2019,13014,0.03245823627121857
+Infectious Disease,Portugal,2019,9262,0.08232522998977823
+Infectious Disease,Puerto Rico,2019,1627,0.051419000063207126
+Infectious Disease,Qatar,2019,96,0.023238925199709513
+Infectious Disease,Romania,2019,7602,0.028372553044581708
+Infectious Disease,Russia,2019,61259,0.034468943964826027
+Infectious Disease,Rwanda,2019,20886,0.31395715896279597
+Infectious Disease,S. Sudan,2019,30658,0.4516632782344795
+Infectious Disease,Saint Kitts and Nevis,2019,57,0.11801242236024845
+Infectious Disease,Saint Lucia,2019,71,0.05270972531551596
+Infectious Disease,Saint Vincent and the Grenadines,2019,67,0.06829765545361875
+Infectious Disease,Samoa,2019,103,0.07767722473604827
+Infectious Disease,San Marino,2019,9,0.030303030303030304
+Infectious Disease,Sao Tome and Principe,2019,160,0.16614745586708204
+Infectious Disease,Saudi Arabia,2019,7259,0.06169314057945149
+Infectious Disease,Senegal,2019,27198,0.3254945607295444
+Infectious Disease,Serbia,2019,1819,0.015601681104725963
+Infectious Disease,Seychelles,2019,92,0.11734693877551021
+Infectious Disease,Sierra Leone,2019,30002,0.4687519530029373
+Infectious Disease,Singapore,2019,3607,0.16088314005352364
+Infectious Disease,Slovakia,2019,1925,0.035451849941987884
+Infectious Disease,Slovenia,2019,721,0.03565952816657599
+Infectious Disease,Solomon Islands,2019,916,0.15725321888412017
+Infectious Disease,Somalia,2019,70416,0.4258680230061628
+Infectious Disease,South Africa,2019,208886,0.41331726650164524
+Infectious Disease,South Korea,2019,20025,0.06376373188982647
+Infectious Disease,Spain,2019,16623,0.040348458442762615
+Infectious Disease,Sri Lanka,2019,6949,0.052801544002553075
+Infectious Disease,Sudan,2019,24105,0.13154089200058935
+Infectious Disease,Suriname,2019,319,0.07697876447876448
+Infectious Disease,Sweden,2019,3721,0.04163775932681333
+Infectious Disease,Switzerland,2019,2305,0.03500858127914218
+Infectious Disease,Syria,2019,2721,0.03282465769949937
+Infectious Disease,Taiwan,2019,14389,0.07879116426279419
+Infectious Disease,Tajikistan,2019,5098,0.10877357685414356
+Infectious Disease,Tanzania,2019,117443,0.3581802322744352
+Infectious Disease,Thailand,2019,63469,0.1309092634149561
+Infectious Disease,Timor,2019,1410,0.18870449678800857
+Infectious Disease,Togo,2019,21923,0.43625256203609736
+Infectious Disease,Tokelau,2019,0,0.0
+Infectious Disease,Tonga,2019,53,0.08268330733229329
+Infectious Disease,Trinidad and Tobago,2019,537,0.047538951841359776
+Infectious Disease,Tunisia,2019,2400,0.03647582716537228
+Infectious Disease,Turkey,2019,17140,0.039050663337259664
+Infectious Disease,Turkmenistan,2019,1996,0.057897026831036986
+Infectious Disease,Tuvalu,2019,8,0.07692307692307693
+Infectious Disease,Uganda,2019,89018,0.39971082952412595
+Infectious Disease,Ukraine,2019,19974,0.028394988015933265
+Infectious Disease,United Arab Emirates,2019,1061,0.039083508306626887
+Infectious Disease,United Kingdom,2019,44206,0.07445396607246318
+Infectious Disease,United States Virgin Islands,2019,35,0.028089887640449437
+Infectious Disease,United States of America,2019,102956,0.03631651054475471
+Infectious Disease,Uruguay,2019,2009,0.06254864721815748
+Infectious Disease,Uzbekistan,2019,14283,0.06863428206224802
+Infectious Disease,Vanuatu,2019,251,0.11658151416627961
+Infectious Disease,Venezuela,2019,10591,0.058408934234110026
+Infectious Disease,Vietnam,2019,49577,0.08005871543040219
+Infectious Disease,Yemen,2019,20370,0.1261347170792723
+Infectious Disease,Zambia,2019,52115,0.4342880475996033
+Infectious Disease,Zimbabwe,2019,52373,0.42393556742755384
+Infectious Disease,eSwatini,2019,5248,0.4651245236196047
+"Maternal, Neonatal, and Nutritional",Afghanistan,2019,30193,0.13872845649487
+"Maternal, Neonatal, and Nutritional",Albania,2019,172,0.007735552057566899
+"Maternal, Neonatal, and Nutritional",Algeria,2019,9600,0.049925371970023974
+"Maternal, Neonatal, and Nutritional",American Samoa,2019,9,0.025
+"Maternal, Neonatal, and Nutritional",Andorra,2019,0,0.0
+"Maternal, Neonatal, and Nutritional",Angola,2019,26179,0.1510268835814007
+"Maternal, Neonatal, and Nutritional",Antigua and Barbuda,2019,10,0.01730103806228374
+"Maternal, Neonatal, and Nutritional",Argentina,2019,6234,0.018495662390372997
+"Maternal, Neonatal, and Nutritional",Armenia,2019,169,0.006043484480045773
+"Maternal, Neonatal, and Nutritional",Australia,2019,800,0.004972186829920134
+"Maternal, Neonatal, and Nutritional",Austria,2019,132,0.001657271277731045
+"Maternal, Neonatal, and Nutritional",Azerbaijan,2019,1904,0.02507803959274528
+"Maternal, Neonatal, and Nutritional",Bahamas,2019,36,0.01405152224824356
+"Maternal, Neonatal, and Nutritional",Bahrain,2019,45,0.011078286558345642
+"Maternal, Neonatal, and Nutritional",Bangladesh,2019,53457,0.06470828193864595
+"Maternal, Neonatal, and Nutritional",Barbados,2019,35,0.012267788293024886
+"Maternal, Neonatal, and Nutritional",Belarus,2019,242,0.0020041905803042724
+"Maternal, Neonatal, and Nutritional",Belgium,2019,885,0.00819884752922866
+"Maternal, Neonatal, and Nutritional",Belize,2019,87,0.04571728849185497
+"Maternal, Neonatal, and Nutritional",Benin,2019,15532,0.1881959506124971
+"Maternal, Neonatal, and Nutritional",Bermuda,2019,1,0.0017953321364452424
+"Maternal, Neonatal, and Nutritional",Bhutan,2019,271,0.06776694173543386
+"Maternal, Neonatal, and Nutritional",Bolivia,2019,6070,0.08289858239326978
+"Maternal, Neonatal, and Nutritional",Bosnia and Herzegovina,2019,82,0.002203708680462241
+"Maternal, Neonatal, and Nutritional",Botswana,2019,1267,0.06098969866178877
+"Maternal, Neonatal, and Nutritional",Brazil,2019,47465,0.03545365591317533
+"Maternal, Neonatal, and Nutritional",Brunei,2019,27,0.015280135823429542
+"Maternal, Neonatal, and Nutritional",Bulgaria,2019,179,0.0014341225013019268
+"Maternal, Neonatal, and Nutritional",Burkina Faso,2019,29235,0.16709056096933672
+"Maternal, Neonatal, and Nutritional",Burundi,2019,14125,0.1756600465110495
+"Maternal, Neonatal, and Nutritional",Cabo Verde,2019,121,0.0352975495915986
+"Maternal, Neonatal, and Nutritional",Cambodia,2019,5906,0.05282175118504606
+"Maternal, Neonatal, and Nutritional",Cameroon,2019,20469,0.10701570023683674
+"Maternal, Neonatal, and Nutritional",Canada,2019,1596,0.0058259444345074044
+"Maternal, Neonatal, and Nutritional",Central African Rep.,2019,8652,0.1352361004736077
+"Maternal, Neonatal, and Nutritional",Chad,2019,25416,0.17993373545153343
+"Maternal, Neonatal, and Nutritional",Chile,2019,1769,0.015908416442593908
+"Maternal, Neonatal, and Nutritional",China,2019,76449,0.007320905283675144
+"Maternal, Neonatal, and Nutritional",Colombia,2019,7349,0.03111846952515646
+"Maternal, Neonatal, and Nutritional",Comoros,2019,534,0.10969597370583402
+"Maternal, Neonatal, and Nutritional",Congo,2019,2928,0.08478846320910434
+"Maternal, Neonatal, and Nutritional",Cook Islands,2019,0,0.0
+"Maternal, Neonatal, and Nutritional",Costa Rica,2019,302,0.012742616033755275
+"Maternal, Neonatal, and Nutritional",Cote d'Ivoire,2019,26763,0.15745349288714744
+"Maternal, Neonatal, and Nutritional",Croatia,2019,68,0.0013311408660245869
+"Maternal, Neonatal, and Nutritional",Cuba,2019,351,0.0034631436661963634
+"Maternal, Neonatal, and Nutritional",Cyprus,2019,38,0.004621184482548948
+"Maternal, Neonatal, and Nutritional",Czechia,2019,386,0.003456891842272593
+"Maternal, Neonatal, and Nutritional",Dem. Rep. Congo,2019,65479,0.12566426708478629
+"Maternal, Neonatal, and Nutritional",Denmark,2019,240,0.004509667599917323
+"Maternal, Neonatal, and Nutritional",Djibouti,2019,1173,0.1624203821656051
+"Maternal, Neonatal, and Nutritional",Dominica,2019,16,0.022889842632331903
+"Maternal, Neonatal, and Nutritional",Dominican Republic,2019,4428,0.06371498050275551
+"Maternal, Neonatal, and Nutritional",Ecuador,2019,3778,0.04185917677690987
+"Maternal, Neonatal, and Nutritional",Egypt,2019,7537,0.012453857771227077
+"Maternal, Neonatal, and Nutritional",El Salvador,2019,1111,0.02781185070218039
+"Maternal, Neonatal, and Nutritional",Equatorial Guinea,2019,569,0.07925894971444492
+"Maternal, Neonatal, and Nutritional",Eritrea,2019,6083,0.14288734379404303
+"Maternal, Neonatal, and Nutritional",Estonia,2019,14,0.0008905852417302799
+"Maternal, Neonatal, and Nutritional",Ethiopia,2019,102662,0.19329960478475927
+"Maternal, Neonatal, and Nutritional",Fiji,2019,202,0.028220173232746577
+"Maternal, Neonatal, and Nutritional",Finland,2019,58,0.001070229176661623
+"Maternal, Neonatal, and Nutritional",France,2019,10503,0.018493899636742694
+"Maternal, Neonatal, and Nutritional",Gabon,2019,718,0.06276223776223776
+"Maternal, Neonatal, and Nutritional",Gambia,2019,1658,0.1319013524264121
+"Maternal, Neonatal, and Nutritional",Georgia,2019,311,0.006242097023463059
+"Maternal, Neonatal, and Nutritional",Germany,2019,2531,0.002716472599688963
+"Maternal, Neonatal, and Nutritional",Ghana,2019,21363,0.10743057720739839
+"Maternal, Neonatal, and Nutritional",Greece,2019,158,0.001248252052110573
+"Maternal, Neonatal, and Nutritional",Greenland,2019,6,0.013186813186813187
+"Maternal, Neonatal, and Nutritional",Grenada,2019,16,0.02064516129032258
+"Maternal, Neonatal, and Nutritional",Guam,2019,28,0.02527075812274368
+"Maternal, Neonatal, and Nutritional",Guatemala,2019,6930,0.07364036299492062
+"Maternal, Neonatal, and Nutritional",Guinea,2019,16582,0.16180086647671832
+"Maternal, Neonatal, and Nutritional",Guinea-Bissau,2019,1894,0.14242743269664612
+"Maternal, Neonatal, and Nutritional",Guyana,2019,308,0.04719583205638982
+"Maternal, Neonatal, and Nutritional",Haiti,2019,9285,0.10130711822982587
+"Maternal, Neonatal, and Nutritional",Honduras,2019,2288,0.04435311906331175
+"Maternal, Neonatal, and Nutritional",Hungary,2019,195,0.0015250578739911156
+"Maternal, Neonatal, and Nutritional",Iceland,2019,8,0.003978120338140228
+"Maternal, Neonatal, and Nutritional",India,2019,520099,0.059016672100084114
+"Maternal, Neonatal, and Nutritional",Indonesia,2019,82378,0.048085886583898715
+"Maternal, Neonatal, and Nutritional",Iran,2019,7964,0.021176345458413105
+"Maternal, Neonatal, and Nutritional",Iraq,2019,7817,0.04728577132003339
+"Maternal, Neonatal, and Nutritional",Ireland,2019,92,0.0029647771583255454
+"Maternal, Neonatal, and Nutritional",Israel,2019,330,0.007364920659718347
+"Maternal, Neonatal, and Nutritional",Italy,2019,1961,0.0031397551279198042
+"Maternal, Neonatal, and Nutritional",Jamaica,2019,551,0.029482583337792283
+"Maternal, Neonatal, and Nutritional",Japan,2019,3736,0.002727459221345435
+"Maternal, Neonatal, and Nutritional",Jordan,2019,1688,0.05602761550716941
+"Maternal, Neonatal, and Nutritional",Kazakhstan,2019,1852,0.013200473278307602
+"Maternal, Neonatal, and Nutritional",Kenya,2019,31160,0.10812799078344212
+"Maternal, Neonatal, and Nutritional",Kiribati,2019,79,0.07028469750889679
+"Maternal, Neonatal, and Nutritional",Kuwait,2019,210,0.022077375946173254
+"Maternal, Neonatal, and Nutritional",Kyrgyzstan,2019,1380,0.03923575571477311
+"Maternal, Neonatal, and Nutritional",Laos,2019,3735,0.08792786854371674
+"Maternal, Neonatal, and Nutritional",Latvia,2019,35,0.0012989904988123515
+"Maternal, Neonatal, and Nutritional",Lebanon,2019,444,0.013474553124336135
+"Maternal, Neonatal, and Nutritional",Lesotho,2019,1665,0.052060534050403354
+"Maternal, Neonatal, and Nutritional",Liberia,2019,3576,0.1282501882867697
+"Maternal, Neonatal, and Nutritional",Libya,2019,408,0.0133604034317899
+"Maternal, Neonatal, and Nutritional",Lithuania,2019,37,0.0009722003258184875
+"Maternal, Neonatal, and Nutritional",Luxembourg,2019,21,0.0052763819095477385
+"Maternal, Neonatal, and Nutritional",Madagascar,2019,25241,0.16080962271122948
+"Maternal, Neonatal, and Nutritional",Malawi,2019,15412,0.13741941811632324
+"Maternal, Neonatal, and Nutritional",Malaysia,2019,2043,0.012180071899983902
+"Maternal, Neonatal, and Nutritional",Maldives,2019,90,0.06550218340611354
+"Maternal, Neonatal, and Nutritional",Mali,2019,64926,0.3444313588184741
+"Maternal, Neonatal, and Nutritional",Malta,2019,13,0.0036211699164345403
+"Maternal, Neonatal, and Nutritional",Marshall Islands,2019,14,0.03431372549019608
+"Maternal, Neonatal, and Nutritional",Mauritania,2019,2933,0.1452915242482786
+"Maternal, Neonatal, and Nutritional",Mauritius,2019,126,0.011900264450321118
+"Maternal, Neonatal, and Nutritional",Mexico,2019,27706,0.0375724503052609
+"Maternal, Neonatal, and Nutritional",Micronesia,2019,16,0.017429193899782137
+"Maternal, Neonatal, and Nutritional",Moldova,2019,151,0.003554362921639244
+"Maternal, Neonatal, and Nutritional",Monaco,2019,0,0.0
+"Maternal, Neonatal, and Nutritional",Mongolia,2019,621,0.024572649572649572
+"Maternal, Neonatal, and Nutritional",Montenegro,2019,15,0.0022314787265694733
+"Maternal, Neonatal, and Nutritional",Morocco,2019,6088,0.027465735502440698
+"Maternal, Neonatal, and Nutritional",Mozambique,2019,33281,0.13376070093645753
+"Maternal, Neonatal, and Nutritional",Myanmar,2019,20289,0.04991770185189286
+"Maternal, Neonatal, and Nutritional",Namibia,2019,1332,0.07187179625532833
+"Maternal, Neonatal, and Nutritional",Nauru,2019,3,0.047619047619047616
+"Maternal, Neonatal, and Nutritional",Nepal,2019,12399,0.06652430747439413
+"Maternal, Neonatal, and Nutritional",Netherlands,2019,651,0.0044163438642669615
+"Maternal, Neonatal, and Nutritional",New Zealand,2019,134,0.004103883376209727
+"Maternal, Neonatal, and Nutritional",Nicaragua,2019,971,0.03327165570175439
+"Maternal, Neonatal, and Nutritional",Niger,2019,30870,0.1775005031193399
+"Maternal, Neonatal, and Nutritional",Nigeria,2019,223539,0.15528933657519972
+"Maternal, Neonatal, and Nutritional",Niue,2019,0,0.0
+"Maternal, Neonatal, and Nutritional",North Korea,2019,2844,0.012155144780425259
+"Maternal, Neonatal, and Nutritional",North Macedonia,2019,115,0.004806888480187259
+"Maternal, Neonatal, and Nutritional",Northern Mariana Islands,2019,4,0.011627906976744186
+"Maternal, Neonatal, and Nutritional",Norway,2019,248,0.006414401365646742
+"Maternal, Neonatal, and Nutritional",Oman,2019,394,0.033506250531507784
+"Maternal, Neonatal, and Nutritional",Pakistan,2019,289030,0.20471083523267328
+"Maternal, Neonatal, and Nutritional",Palau,2019,1,0.0049504950495049506
+"Maternal, Neonatal, and Nutritional",Palestine,2019,855,0.05412077478161793
+"Maternal, Neonatal, and Nutritional",Panama,2019,658,0.03422804827299209
+"Maternal, Neonatal, and Nutritional",Papua New Guinea,2019,5540,0.08755571008629137
+"Maternal, Neonatal, and Nutritional",Paraguay,2019,1265,0.03882392658748427
+"Maternal, Neonatal, and Nutritional",Peru,2019,6890,0.04625371741596794
+"Maternal, Neonatal, and Nutritional",Philippines,2019,32154,0.05273274140063042
+"Maternal, Neonatal, and Nutritional",Poland,2019,785,0.0019578696383054078
+"Maternal, Neonatal, and Nutritional",Portugal,2019,394,0.0035020665748188968
+"Maternal, Neonatal, and Nutritional",Puerto Rico,2019,323,0.01020795145692434
+"Maternal, Neonatal, and Nutritional",Qatar,2019,88,0.02130234809973372
+"Maternal, Neonatal, and Nutritional",Romania,2019,608,0.0022692070838076397
+"Maternal, Neonatal, and Nutritional",Russia,2019,4464,0.002511783833542555
+"Maternal, Neonatal, and Nutritional",Rwanda,2019,8711,0.13094325441563323
+"Maternal, Neonatal, and Nutritional",S. Sudan,2019,13927,0.20517693508942514
+"Maternal, Neonatal, and Nutritional",Saint Kitts and Nevis,2019,14,0.028985507246376812
+"Maternal, Neonatal, and Nutritional",Saint Lucia,2019,29,0.021529324424647365
+"Maternal, Neonatal, and Nutritional",Saint Vincent and the Grenadines,2019,29,0.029561671763506627
+"Maternal, Neonatal, and Nutritional",Samoa,2019,26,0.0196078431372549
+"Maternal, Neonatal, and Nutritional",San Marino,2019,1,0.003367003367003367
+"Maternal, Neonatal, and Nutritional",Sao Tome and Principe,2019,62,0.06438213914849429
+"Maternal, Neonatal, and Nutritional",Saudi Arabia,2019,1449,0.012314831340353383
+"Maternal, Neonatal, and Nutritional",Senegal,2019,11976,0.14332387893584175
+"Maternal, Neonatal, and Nutritional",Serbia,2019,210,0.0018011836349601166
+"Maternal, Neonatal, and Nutritional",Seychelles,2019,13,0.016581632653061226
+"Maternal, Neonatal, and Nutritional",Sierra Leone,2019,10478,0.1637085182176114
+"Maternal, Neonatal, and Nutritional",Singapore,2019,35,0.0015611061552185548
+"Maternal, Neonatal, and Nutritional",Slovakia,2019,135,0.002486233632295254
+"Maternal, Neonatal, and Nutritional",Slovenia,2019,19,0.0009397101735990899
+"Maternal, Neonatal, and Nutritional",Solomon Islands,2019,222,0.038111587982832616
+"Maternal, Neonatal, and Nutritional",Somalia,2019,37873,0.22905163081277555
+"Maternal, Neonatal, and Nutritional",South Africa,2019,22655,0.04482685614447485
+"Maternal, Neonatal, and Nutritional",South Korea,2019,1019,0.0032447062569654515
+"Maternal, Neonatal, and Nutritional",Spain,2019,1267,0.00307534722053662
+"Maternal, Neonatal, and Nutritional",Sri Lanka,2019,1488,0.011306475388660092
+"Maternal, Neonatal, and Nutritional",Sudan,2019,25351,0.1383403091934014
+"Maternal, Neonatal, and Nutritional",Suriname,2019,170,0.041023166023166024
+"Maternal, Neonatal, and Nutritional",Sweden,2019,362,0.004050757558803124
+"Maternal, Neonatal, and Nutritional",Switzerland,2019,323,0.0049057578104828295
+"Maternal, Neonatal, and Nutritional",Syria,2019,1293,0.015598045720489777
+"Maternal, Neonatal, and Nutritional",Taiwan,2019,595,0.0032580959577706956
+"Maternal, Neonatal, and Nutritional",Tajikistan,2019,2802,0.059784927882563794
+"Maternal, Neonatal, and Nutritional",Tanzania,2019,58600,0.17871956277753379
+"Maternal, Neonatal, and Nutritional",Thailand,2019,3900,0.008044023496798891
+"Maternal, Neonatal, and Nutritional",Timor,2019,709,0.09488758029978586
+"Maternal, Neonatal, and Nutritional",Togo,2019,5526,0.10996358426362605
+"Maternal, Neonatal, and Nutritional",Tokelau,2019,0,0.0
+"Maternal, Neonatal, and Nutritional",Tonga,2019,21,0.0327613104524181
+"Maternal, Neonatal, and Nutritional",Trinidad and Tobago,2019,183,0.016200424929178472
+"Maternal, Neonatal, and Nutritional",Tunisia,2019,1000,0.015198261318905117
+"Maternal, Neonatal, and Nutritional",Turkey,2019,8958,0.02040932568116523
+"Maternal, Neonatal, and Nutritional",Turkmenistan,2019,1185,0.03437273386511965
+"Maternal, Neonatal, and Nutritional",Tuvalu,2019,1,0.009615384615384616
+"Maternal, Neonatal, and Nutritional",Uganda,2019,40837,0.18336730936750695
+"Maternal, Neonatal, and Nutritional",Ukraine,2019,1592,0.0022631831842077578
+"Maternal, Neonatal, and Nutritional",United Arab Emirates,2019,105,0.0038678306995248092
+"Maternal, Neonatal, and Nutritional",United Kingdom,2019,1801,0.0030333346807335246
+"Maternal, Neonatal, and Nutritional",United States Virgin Islands,2019,12,0.009630818619582664
+"Maternal, Neonatal, and Nutritional",United States of America,2019,23784,0.008389524523062727
+"Maternal, Neonatal, and Nutritional",Uruguay,2019,396,0.012329150969830942
+"Maternal, Neonatal, and Nutritional",Uzbekistan,2019,5535,0.02659740609217551
+"Maternal, Neonatal, and Nutritional",Vanuatu,2019,101,0.046911286576869486
+"Maternal, Neonatal, and Nutritional",Venezuela,2019,4914,0.027100510133737765
+"Maternal, Neonatal, and Nutritional",Vietnam,2019,7751,0.012516592438046825
+"Maternal, Neonatal, and Nutritional",Yemen,2019,22638,0.14017858248603662
+"Maternal, Neonatal, and Nutritional",Zambia,2019,14382,0.11984900125832285
+"Maternal, Neonatal, and Nutritional",Zimbabwe,2019,15642,0.12661486158329285
+"Maternal, Neonatal, and Nutritional",eSwatini,2019,648,0.05743153416644509
+Non-Communicable Diseases,Afghanistan,2019,114392,0.5255994964184139
+Non-Communicable Diseases,Albania,2019,21000,0.9444569372610749
+Non-Communicable Diseases,Algeria,2019,160376,0.8340449432358922
+Non-Communicable Diseases,American Samoa,2019,318,0.8833333333333333
+Non-Communicable Diseases,Andorra,2019,546,0.9301533219761499
+Non-Communicable Diseases,Angola,2019,65284,0.37662397600092307
+Non-Communicable Diseases,Antigua and Barbuda,2019,507,0.8771626297577855
+Non-Communicable Diseases,Argentina,2019,275021,0.8159601485824146
+Non-Communicable Diseases,Armenia,2019,26303,0.9406022028322129
+Non-Communicable Diseases,Australia,2019,150172,0.933354050778458
+Non-Communicable Diseases,Austria,2019,75914,0.9531067558914739
+Non-Communicable Diseases,Azerbaijan,2019,68199,0.8982653477865732
+Non-Communicable Diseases,Bahamas,2019,2037,0.7950819672131147
+Non-Communicable Diseases,Bahrain,2019,3587,0.8830625307730182
+Non-Communicable Diseases,Bangladesh,2019,636242,0.7701540811719321
+Non-Communicable Diseases,Barbados,2019,2525,0.8850332982825097
+Non-Communicable Diseases,Belarus,2019,112286,0.9299278657026676
+Non-Communicable Diseases,Belgium,2019,96077,0.8900798577013581
+Non-Communicable Diseases,Belize,2019,1343,0.7057277982133473
+Non-Communicable Diseases,Benin,2019,28047,0.3398359404345034
+Non-Communicable Diseases,Bermuda,2019,518,0.9299820466786356
+Non-Communicable Diseases,Bhutan,2019,3133,0.7834458614653663
+Non-Communicable Diseases,Bolivia,2019,53277,0.727609188495261
+Non-Communicable Diseases,Bosnia and Herzegovina,2019,35799,0.9620800859983876
+Non-Communicable Diseases,Botswana,2019,9182,0.44199480119379997
+Non-Communicable Diseases,Brazil,2019,1039763,0.7766438351048335
+Non-Communicable Diseases,Brunei,2019,1511,0.855121675155631
+Non-Communicable Diseases,Bulgaria,2019,120021,0.9615911549092657
+Non-Communicable Diseases,Burkina Faso,2019,51952,0.29692795701997543
+Non-Communicable Diseases,Burundi,2019,27127,0.33735434206762754
+Non-Communicable Diseases,Cabo Verde,2019,2555,0.7453325554259043
+Non-Communicable Diseases,Cambodia,2019,78631,0.7032555227618281
+Non-Communicable Diseases,Cameroon,2019,68426,0.3577437248720402
+Non-Communicable Diseases,Canada,2019,252398,0.9213387991107769
+Non-Communicable Diseases,Central African Rep.,2019,16716,0.26128139800240713
+Non-Communicable Diseases,Chad,2019,35444,0.2509274204967009
+Non-Communicable Diseases,Chile,2019,97335,0.8753226198077321
+Non-Communicable Diseases,China,2019,9613728,0.9206293360412259
+Non-Communicable Diseases,Colombia,2019,187768,0.7950813424683056
+Non-Communicable Diseases,Comoros,2019,2705,0.5556696795398521
+Non-Communicable Diseases,Congo,2019,16588,0.48035212695103235
+Non-Communicable Diseases,Cook Islands,2019,145,0.8787878787878788
+Non-Communicable Diseases,Costa Rica,2019,20446,0.8627004219409282
+Non-Communicable Diseases,Cote d'Ivoire,2019,56919,0.3348688622965865
+Non-Communicable Diseases,Croatia,2019,49061,0.9603985592357686
+Non-Communicable Diseases,Cuba,2019,89295,0.8810296685840577
+Non-Communicable Diseases,Cyprus,2019,7717,0.9384652803113219
+Non-Communicable Diseases,Czechia,2019,104705,0.9377043014123104
+Non-Communicable Diseases,Dem. Rep. Congo,2019,211214,0.40535213592214375
+Non-Communicable Diseases,Denmark,2019,48914,0.919107837426483
+Non-Communicable Diseases,Djibouti,2019,3150,0.4361672666851288
+Non-Communicable Diseases,Dominica,2019,611,0.8741058655221745
+Non-Communicable Diseases,Dominican Republic,2019,54269,0.7808826280271091
+Non-Communicable Diseases,Ecuador,2019,69231,0.7670599966760844
+Non-Communicable Diseases,Egypt,2019,528266,0.8728870411801836
+Non-Communicable Diseases,El Salvador,2019,30271,0.7577790572508574
+Non-Communicable Diseases,Equatorial Guinea,2019,2534,0.3529739518038724
+Non-Communicable Diseases,Eritrea,2019,17626,0.41402799962416614
+Non-Communicable Diseases,Estonia,2019,14912,0.9486005089058525
+Non-Communicable Diseases,Ethiopia,2019,219519,0.4133266051971087
+Non-Communicable Diseases,Fiji,2019,6271,0.8760827046661078
+Non-Communicable Diseases,Finland,2019,51727,0.9544783555375134
+Non-Communicable Diseases,France,2019,511452,0.9005752601172354
+Non-Communicable Diseases,Gabon,2019,6505,0.5686188811188811
+Non-Communicable Diseases,Gambia,2019,5939,0.4724741447891806
+Non-Communicable Diseases,Georgia,2019,47132,0.9459888003532505
+Non-Communicable Diseases,Germany,2019,880522,0.9450469721151029
+Non-Communicable Diseases,Ghana,2019,94024,0.4728293119575166
+Non-Communicable Diseases,Greece,2019,117756,0.9303111939767889
+Non-Communicable Diseases,Greenland,2019,382,0.8395604395604396
+Non-Communicable Diseases,Grenada,2019,676,0.8722580645161291
+Non-Communicable Diseases,Guam,2019,965,0.8709386281588448
+Non-Communicable Diseases,Guatemala,2019,62130,0.66021295135273
+Non-Communicable Diseases,Guinea,2019,37291,0.36387143358963353
+Non-Communicable Diseases,Guinea-Bissau,2019,5505,0.41397202586855164
+Non-Communicable Diseases,Guyana,2019,4958,0.7597303095311063
+Non-Communicable Diseases,Haiti,2019,55024,0.6003578754418889
+Non-Communicable Diseases,Honduras,2019,41150,0.7976970495870973
+Non-Communicable Diseases,Hungary,2019,122670,0.9593787148845648
+Non-Communicable Diseases,Iceland,2019,1837,0.91347588264545
+Non-Communicable Diseases,India,2019,6112382,0.6935841911721736
+Non-Communicable Diseases,Indonesia,2019,1378656,0.8047524345603373
+Non-Communicable Diseases,Iran,2019,322752,0.8582003828972559
+Non-Communicable Diseases,Iraq,2019,135920,0.8221929177202173
+Non-Communicable Diseases,Ireland,2019,28398,0.91514936676227
+Non-Communicable Diseases,Israel,2019,40792,0.9103934653067601
+Non-Communicable Diseases,Italy,2019,596693,0.9553645622355185
+Non-Communicable Diseases,Jamaica,2019,16440,0.8796618331638932
+Non-Communicable Diseases,Japan,2019,1194692,0.8721824711101767
+Non-Communicable Diseases,Jordan,2019,24902,0.8265400955921403
+Non-Communicable Diseases,Kazakhstan,2019,121808,0.8682090977775877
+Non-Communicable Diseases,Kenya,2019,120156,0.4169520815332244
+Non-Communicable Diseases,Kiribati,2019,817,0.7268683274021353
+Non-Communicable Diseases,Kuwait,2019,7747,0.8144449116904963
+Non-Communicable Diseases,Kyrgyzstan,2019,29885,0.8496815648811554
+Non-Communicable Diseases,Laos,2019,28930,0.6810584302462451
+Non-Communicable Diseases,Latvia,2019,25301,0.9390216745843231
+Non-Communicable Diseases,Lebanon,2019,30224,0.9172407514187734
+Non-Communicable Diseases,Lesotho,2019,10651,0.33303107998249015
+Non-Communicable Diseases,Liberia,2019,11039,0.3959043144568375
+Non-Communicable Diseases,Libya,2019,24996,0.8185211867181872
+Non-Communicable Diseases,Lithuania,2019,35466,0.9318934258237427
+Non-Communicable Diseases,Luxembourg,2019,3678,0.9241206030150754
+Non-Communicable Diseases,Madagascar,2019,70212,0.44731845924491276
+Non-Communicable Diseases,Malawi,2019,43376,0.38675737608445604
+Non-Communicable Diseases,Malaysia,2019,127330,0.7591231302128979
+Non-Communicable Diseases,Maldives,2019,1144,0.8326055312954876
+Non-Communicable Diseases,Mali,2019,50065,0.2655939990026631
+Non-Communicable Diseases,Malta,2019,3326,0.9264623955431754
+Non-Communicable Diseases,Marshall Islands,2019,322,0.7892156862745098
+Non-Communicable Diseases,Mauritania,2019,9840,0.4874424134343885
+Non-Communicable Diseases,Mauritius,2019,9659,0.9122591613146959
+Non-Communicable Diseases,Mexico,2019,610053,0.8273004412789767
+Non-Communicable Diseases,Micronesia,2019,728,0.7930283224400871
+Non-Communicable Diseases,Moldova,2019,39330,0.9257820775368971
+Non-Communicable Diseases,Monaco,2019,478,0.9317738791423001
+Non-Communicable Diseases,Mongolia,2019,21473,0.8496755302310858
+Non-Communicable Diseases,Montenegro,2019,6405,0.9528414162451652
+Non-Communicable Diseases,Morocco,2019,189137,0.853282985500185
+Non-Communicable Diseases,Mozambique,2019,68183,0.2740364133274386
+Non-Communicable Diseases,Myanmar,2019,323638,0.7962573410194145
+Non-Communicable Diseases,Namibia,2019,8660,0.46727459126962717
+Non-Communicable Diseases,Nauru,2019,47,0.746031746031746
+Non-Communicable Diseases,Nepal,2019,140346,0.7529978592468197
+Non-Communicable Diseases,Netherlands,2019,136563,0.9264349725589693
+Non-Communicable Diseases,New Zealand,2019,30489,0.9337559720690922
+Non-Communicable Diseases,Nicaragua,2019,24536,0.840734649122807
+Non-Communicable Diseases,Niger,2019,43136,0.2480292096713912
+Non-Communicable Diseases,Nigeria,2019,441478,0.30668843348384855
+Non-Communicable Diseases,Niue,2019,17,0.9444444444444444
+Non-Communicable Diseases,North Korea,2019,205117,0.8766620365423656
+Non-Communicable Diseases,North Macedonia,2019,23100,0.9655575990637018
+Non-Communicable Diseases,Northern Mariana Islands,2019,305,0.8866279069767442
+Non-Communicable Diseases,Norway,2019,34997,0.9051806636836252
+Non-Communicable Diseases,Oman,2019,8390,0.7134960455821073
+Non-Communicable Diseases,Pakistan,2019,820385,0.5810528269119353
+Non-Communicable Diseases,Palau,2019,167,0.8267326732673267
+Non-Communicable Diseases,Palestine,2019,13361,0.8457399670844411
+Non-Communicable Diseases,Panama,2019,15283,0.7949958385351644
+Non-Communicable Diseases,Papua New Guinea,2019,36530,0.577330341056358
+Non-Communicable Diseases,Paraguay,2019,25757,0.7905042506828714
+Non-Communicable Diseases,Peru,2019,109969,0.7382402105249025
+Non-Communicable Diseases,Philippines,2019,436463,0.7158017823581313
+Non-Communicable Diseases,Poland,2019,374187,0.9332603392975612
+Non-Communicable Diseases,Portugal,2019,100056,0.8893471401271055
+Non-Communicable Diseases,Puerto Rico,2019,28270,0.8934327792174958
+Non-Communicable Diseases,Qatar,2019,2968,0.7184701040910191
+Non-Communicable Diseases,Romania,2019,253239,0.9451508761453338
+Non-Communicable Diseases,Russia,2019,1600694,0.9006714407814889
+Non-Communicable Diseases,Rwanda,2019,32639,0.49062758361518227
+Non-Communicable Diseases,S. Sudan,2019,19698,0.29019711835940953
+Non-Communicable Diseases,Saint Kitts and Nevis,2019,390,0.8074534161490683
+Non-Communicable Diseases,Saint Lucia,2019,1164,0.8641425389755011
+Non-Communicable Diseases,Saint Vincent and the Grenadines,2019,834,0.8501529051987767
+Non-Communicable Diseases,Samoa,2019,1110,0.8371040723981901
+Non-Communicable Diseases,San Marino,2019,280,0.9427609427609428
+Non-Communicable Diseases,Sao Tome and Principe,2019,700,0.726895119418484
+Non-Communicable Diseases,Saudi Arabia,2019,83739,0.7116850666734658
+Non-Communicable Diseases,Senegal,2019,40429,0.48383776732608097
+Non-Communicable Diseases,Serbia,2019,111806,0.9589673213826229
+Non-Communicable Diseases,Seychelles,2019,634,0.8086734693877551
+Non-Communicable Diseases,Sierra Leone,2019,20616,0.32210486844572217
+Non-Communicable Diseases,Singapore,2019,18086,0.8066904549509366
+Non-Communicable Diseases,Slovakia,2019,50675,0.9332584393819408
+Non-Communicable Diseases,Slovenia,2019,18863,0.9329343686631386
+Non-Communicable Diseases,Solomon Islands,2019,4186,0.7186266094420601
+Non-Communicable Diseases,Somalia,2019,45625,0.2759348521593981
+Non-Communicable Diseases,South Africa,2019,222895,0.4410365085112656
+Non-Communicable Diseases,South Korea,2019,269042,0.85668524120363
+Non-Communicable Diseases,Spain,2019,386600,0.9383814013097532
+Non-Communicable Diseases,Sri Lanka,2019,112981,0.8584790966977189
+Non-Communicable Diseases,Sudan,2019,120653,0.6584029555091104
+Non-Communicable Diseases,Suriname,2019,3316,0.8001930501930502
+Non-Communicable Diseases,Sweden,2019,83152,0.9304657252198822
+Non-Communicable Diseases,Switzerland,2019,61534,0.9345848331586701
+Non-Communicable Diseases,Syria,2019,69080,0.8333433862114723
+Non-Communicable Diseases,Taiwan,2019,158336,0.867014927007699
+Non-Communicable Diseases,Tajikistan,2019,36632,0.7815993855082359
+Non-Communicable Diseases,Tanzania,2019,135579,0.4134918020787586
+Non-Communicable Diseases,Thailand,2019,381308,0.7864744901326645
+Non-Communicable Diseases,Timor,2019,5006,0.6699678800856531
+Non-Communicable Diseases,Togo,2019,19759,0.3931904562911667
+Non-Communicable Diseases,Tokelau,2019,9,1.0
+Non-Communicable Diseases,Tonga,2019,541,0.84399375975039
+Non-Communicable Diseases,Trinidad and Tobago,2019,9858,0.8726983002832861
+Non-Communicable Diseases,Tunisia,2019,58989,0.896530236940894
+Non-Communicable Diseases,Turkey,2019,398961,0.9089668433895247
+Non-Communicable Diseases,Turkmenistan,2019,29938,0.8683973894126178
+Non-Communicable Diseases,Tuvalu,2019,88,0.8461538461538461
+Non-Communicable Diseases,Uganda,2019,80618,0.36199294136664484
+Non-Communicable Diseases,Ukraine,2019,645786,0.9180477486160749
+Non-Communicable Diseases,United Arab Emirates,2019,20979,0.772792573765057
+Non-Communicable Diseases,United Kingdom,2019,538128,0.9063422127005942
+Non-Communicable Diseases,United States Virgin Islands,2019,1141,0.9157303370786517
+Non-Communicable Diseases,United States of America,2019,2593531,0.9148373665415152
+Non-Communicable Diseases,Uruguay,2019,28116,0.8753697188579969
+Non-Communicable Diseases,Uzbekistan,2019,175762,0.8445913802299823
+Non-Communicable Diseases,Vanuatu,2019,1641,0.7621922898281468
+Non-Communicable Diseases,Venezuela,2019,145546,0.802680270233007
+Non-Communicable Diseases,Vietnam,2019,520668,0.8407933365414738
+Non-Communicable Diseases,Yemen,2019,88812,0.5499399358490099
+Non-Communicable Diseases,Zambia,2019,47122,0.39268006099949165
+Non-Communicable Diseases,Zimbabwe,2019,46532,0.3766553343046786
+Non-Communicable Diseases,eSwatini,2019,4391,0.38916954710626606

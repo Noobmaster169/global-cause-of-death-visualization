@@ -7,7 +7,7 @@
     "url": "data/total_deaths_by_country_with_population.csv"
   },
   "transform": [
-    {"filter": "datum.country == 'United States of America' || datum.country == 'China' || datum.country == 'Russia' || datum.country == 'Germany'"},
+    {"filter": "datum.country == 'Japan' || datum.country == 'Ukraine' || datum.country == 'Russia' || datum.country == 'Germany'"},
     {"calculate": "datum.total_deaths / datum.total_population", "as": "Mortality Rate"}
   ],
   "mark": {
@@ -33,7 +33,7 @@
       "type": "nominal",
       "title": "Country",
       "scale": {
-        "scheme": "category10"
+        "scheme": "darkblue"
       }
     },
     "tooltip": [

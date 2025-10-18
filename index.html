@@ -32,12 +32,13 @@
         .header {
             background: linear-gradient(135deg, #2c3e50 0%, #34495e 100%);
             color: white;
-            padding: 40px 20px;
+            padding: 20px 10px;
             text-align: center;
+            margin-bottom: 20px;
         }
         
         .header h1 {
-            font-size: 3rem;
+            font-size: 2rem;
             margin-bottom: 15px;
             font-weight: 300;
         }
@@ -50,38 +51,16 @@
             line-height: 1.6;
         }
         
-        .stats-summary {
-            background: linear-gradient(135deg, #e74c3c 0%, #c0392b 100%);
-            color: white;
-            padding: 30px;
-            margin: 30px;
-            border-radius: 10px;
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-            gap: 20px;
-        }
-        
-        .stat-item {
-            text-align: center;
-        }
-        
-        .stat-number {
-            font-size: 2.2rem;
-            font-weight: bold;
-            display: block;
-        }
-        
-        .stat-label {
-            font-size: 1rem;
-            opacity: 0.9;
-            margin-top: 8px;
-        }
-        
         .dashboard-grid {
             display: grid;
             grid-template-columns: repeat(auto-fit, minmax(500px, 1fr));
             gap: 20px;
             padding: 10px 30px;
+        }
+        .grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(500px, 1fr));
+            gap: 20px;
         }
         
         .chart-container {
@@ -91,10 +70,13 @@
             box-shadow: 0 8px 20px rgba(0,0,0,0.1);
             transition: transform 0.3s ease, box-shadow 0.3s ease;
         }
-        
-        .chart-container:hover {
-            transform: translateY(-8px);
-            box-shadow: 0 15px 30px rgba(0,0,0,0.15);
+
+        .chart-container-no-bottom {
+            background: #f8f9fa;
+            border-radius: 12px;
+            padding: 25px 25px 0px 25px;
+            box-shadow: 0 8px 20px rgba(0,0,0,0.1);
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
         }
         
         .chart-title {
@@ -106,7 +88,16 @@
         
         .chart-description {
             font-size: 0.95rem;
-            color: #6c757d;
+            color: rgb(80, 80, 80);
+            margin-bottom: 20px;
+            line-height: 1.5;
+        }
+
+        .metadata {
+            padding-left: 40px;
+            font-size: 0.95rem;
+            color: rgb(80, 80, 80);
+            margin-top: 10px;
             margin-bottom: 20px;
             line-height: 1.5;
         }
@@ -127,6 +118,30 @@
             color: #6c757d;
             font-size: 1.1rem;
         }
+
+        .category-title {
+            font-size: 1.4rem;
+            font-weight: 600;
+            color: #2c3e50;
+            padding: 10px 30px;
+            margin-bottom: 15px;
+        }
+        
+        .space {
+            height: 40px;
+        }
+
+        .margin-right-50 {
+            margin-right: 20px;
+        }
+
+        .margin-left-50 {
+            margin-left: 50px;
+        }
+
+        .space-30 {
+            height: 30px;
+        }
         
         .section-header {
             background: linear-gradient(135deg, #3498db 0%, #2980b9 100%);
@@ -142,32 +157,7 @@
             font-weight: 400;
         }
         
-        .insights-panel {
-            background: linear-gradient(135deg, #27ae60 0%, #229954 100%);
-            color: white;
-            padding: 25px;
-            margin: 30px;
-            border-radius: 10px;
-        }
-        
-        .insights-panel h3 {
-            font-size: 1.4rem;
-            margin-bottom: 15px;
-        }
-        
-        .insights-list {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-            gap: 15px;
-        }
-        
-        .insight-item {
-            background: rgba(255,255,255,0.1);
-            padding: 15px;
-            border-radius: 8px;
-            border-left: 4px solid rgba(255,255,255,0.3);
-        }
-        
+     
         @media (max-width: 768px) {
             .dashboard-grid {
                 grid-template-columns: 1fr;
@@ -189,27 +179,7 @@
 <body>
     <div class="dashboard-container">
         <div class="header">
-            <h1>Global Causes of Death Dashboard</h1>
-            <p>Comprehensive analysis of mortality patterns worldwide from 1990-2019. Exploring 32 different causes of death across 204 countries and territories, revealing critical insights into global health challenges and trends.</p>
-        </div>
-        
-        <div class="stats-summary">
-            <div class="stat-item">
-                <span class="stat-number">1.2B+</span>
-                <span class="stat-label">Total Deaths Analyzed</span>
-            </div>
-            <div class="stat-item">
-                <span class="stat-number">32</span>
-                <span class="stat-label">Causes of Death</span>
-            </div>
-            <div class="stat-item">
-                <span class="stat-number">204</span>
-                <span class="stat-label">Countries & Territories</span>
-            </div>
-            <div class="stat-item">
-                <span class="stat-number">30</span>
-                <span class="stat-label">Years of Data</span>
-            </div>
+            <h1>Global Causes of Death</h1>
         </div>
         
         <div class="dashboard-grid" style="grid-template-columns: 4fr 2fr;">
@@ -224,41 +194,51 @@
                 <div id="mortality-trend-2">Loading Chart...</div>
             </div>
         </div>
-
-         <div class="dashboard-grid" style="grid-template-columns: 3fr 4fr;">
-            <div class="chart-container">
-                <div id="cause-distribution" class="loading">Loading chart...</div>
-                <div class="chart-description">Majority of Global Death are causes by Non-Communicable Disease, such as Cancer, Diabetes, and Cardiovascular Diseases</div>
-            </div>
-            <div class="chart-container">
-                 <div class="chart-description">Cases of Infectious Disease has decreased overtime</div>
-                <div id="infectious-disease-trends" class="loading">Loading chart...</div>
-            </div>
-        </div>
-
-        <div class="dashboard-grid">
-            <div class="chart-container half-width">
-                <div id="drug-map" class="loading">Loading map...</div>
-            </div>
-            <div class="chart-container">
-                <div id="hiv-map" class="loading">Loading map...</div>
-            </div>
-        </div>
         
         <div class="dashboard-grid">
-            <div class="chart-container half-width">
-                <div id="malaria-map" class="loading">Loading map...</div>
-            </div>
-            <div class="chart-container">
+            <div class="chart-container-no-bottom">
+                <div class="grid">
+                    <div class="half-width margin-right-50">
+                        <h1 class="chart-title">Non-Communicable Diseases</h1>
+                        <div class="chart-description">Majority of global deaths were caused by <b>Non-Communicable Disease</b>, mostly dominated by <b>Cardiovascular Diseases</b> and <b>Neoplasms (Cancer)</b>. In developed countries, the rate is above <b>90%</b>, whereas most less-developed countries have lower rates.</div>
+                        <div id="noncommunicable-map" class="loading">Loading map...</div>
+                    </div>
+                    <div class="half-width margin-left-50">
+                        <div class="space"></div>
+                        <div id="noncommunicable-distribution" class="loading">Loading chart...</div>
+                    </div>
+                </div>  
+            </div>  
+        </div>
+
+        <div class="dashboard-grid">
+            <div class="chart-container-no-bottom half-width">
+                <h1 class="chart-title">Infectious Diseases</h1>
+                <div class="chart-description">Most countries have low rate of Infectious Disease case. However the number is very high among countries in <b>Africa</b>. Most commonly found causes are <b>Lower Respiratory Infections</b> and <b>HIV/AIDS</b>.</div>
+                <div id="infectious-distribution" class="loading">Loading chart...</div>
+                <div id="infectious-map" class="loading">Loading map...</div>
+            </div>  
+            <div class="chart-container-no-bottom half-width">
+                <h1 class="chart-title">External Causes</h1>
+                <div class="chart-description">Several cause of deaths comes from external factors. For example, <b>2%</b> of death in <b>United States</b> and <b>United Arab Emirates</b> are caused by the use of <b>drugs</b>. Whereas, <b>Latin America</b> has high cases of death caused by <b>Interpersonal Violence</b>.</div>
+                <div></div>
+                <div id="drug-map" class="loading">Loading map...</div>
+                <div class="space"></div>
                 <div id="violence-map" class="loading">Loading map...</div>
             </div>
+        </div>
+
+        <div class="metadata">
+            <p><b>Author:</b> Mario Taning</p>
+            <p><b>Date:</b> 19 October 2025</p>
+            <p><b>Source:</b> <a href="https://www.kaggle.com/datasets/iamsouravbanerjee/cause-of-deaths-around-the-world?resource=download" target="_blank">Cause of Deaths around the World (Kaggle)</a></p>
         </div>
     </div>
 
     <script>
         // Configuration for all charts
         const chartConfig = {
-            //actions: false,
+            actions: false,
             renderer: 'svg',
             theme: 'quartz'
         };
@@ -269,22 +249,14 @@
             {id: 'mortality-rate-map', file: 'mortality_rate.json'},
             {id: 'mortality-trend', file: 'mortality_trend.json'},
             {id: 'mortality-trend-2', file: 'mortality_trend_2.json'},
-            {id: 'empty-map', file: 'empty_map.json'},
             {id: 'infectious-disease-trends', file: 'infectious_disease.json'},
             {id: 'drug-map', file: 'caused_by_drug_map.json'},
             {id: 'violence-map', file: 'caused_by_violence_map.json'},
-            {id: 'hiv-map', file: 'caused_by_hiv.json'},
-            {id: 'malaria-map', file: 'caused_by_malaria.json'},
-            // { id: 'cardio-map', file: '1_cardiovascular_deaths_map.json' },
-            // { id: 'cancer-map', file: '2_cancer_deaths_map.json' },
-            // { id: 'leading-causes', file: '3_leading_causes_bar.json' },
-            // { id: 'temporal-trends', file: '4_temporal_trends_line.json' },
-            // { id: 'disease-categories', file: '5_infectious_vs_noncommunicable_pie.json' },
-            // { id: 'country-heatmap', file: '6_country_comparison_heatmap.json' },
-            // { id: 'cardio-cancer-scatter', file: '7_regional_analysis_scatter.json' },
-            // { id: 'infectious-trends', file: '8_infectious_disease_trends.json' },
-            // { id: 'age-diseases', file: '9_age_related_diseases_donut.json' },
-            // { id: 'top-countries', file: '10_top_countries_deaths_bar.json' }
+            {id: 'cardio-map', file: 'caused_by_cardiovascular.json'},
+            {id: 'noncommunicable-map', file: 'caused_by_noncommunicable.json'},
+            {id: 'infectious-map', file: 'caused_by_infectious.json'},
+            {id: 'noncommunicable-distribution', file: 'distribution_noncommunicable.json'},
+            {id: 'infectious-distribution', file: 'distribution_infectious.json'}
         ];
 
         // Load each chart
@@ -306,7 +278,7 @@
             statNumbers.forEach((stat, index) => {
                 setTimeout(() => {
                     stat.style.transform = 'scale(1.1)';
-                    stat.style.transition = 'transform 0.3s ease';
+                    stat.style.transition = 'transform 0.9s ease';
                     setTimeout(() => {
                         stat.style.transform = 'scale(1)';
                     }, 300);

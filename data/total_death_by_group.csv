@@ -1,0 +1,32 @@
+category,cause,total_deaths,ratio
+Non-Communicable Diseases,Cardiovascular Diseases,18552218,0.44294800302324217
+Non-Communicable Diseases,Neoplasms,10074275,0.2405308084002125
+Non-Communicable Diseases,Chronic Respiratory Diseases,3972681,0.0948507135695784
+Non-Communicable Diseases,Digestive Diseases,2556209,0.06103139106386303
+Non-Communicable Diseases,Alzheimer's Disease and Other Dementias,1622426,0.03873662743468122
+Non-Communicable Diseases,Diabetes Mellitus,1549593,0.03699768538989758
+Non-Communicable Diseases,Cirrhosis and Other Chronic Liver Diseases,1471148,0.03512475267117046
+Non-Communicable Diseases,Chronic Kidney Disease,1426280,0.034053495800447676
+Non-Communicable Diseases,Parkinson's Disease,362702,0.008659780010807116
+Non-Communicable Diseases,Alcohol Use Disorders,167932,0.004009501399978111
+Non-Communicable Diseases,Drug Use Disorders,128048,0.0030572412361217463
+Infectious Disease,Lower Respiratory Infections,2491472,0.3546091740267459
+Infectious Disease,Diarrheal Diseases,1533777,0.21830122719068096
+Infectious Disease,Tuberculosis,1179234,0.16783941169086217
+Infectious Disease,HIV/AIDS,863056,0.12283805529374893
+Infectious Disease,Malaria,643201,0.09154627278298813
+Infectious Disease,Meningitis,236084,0.03360164282036093
+Infectious Disease,Acute Hepatitis,79142,0.011264216194612955
+"Maternal, Neonatal, and Nutritional",Neonatal Disorders,1881372,0.7403568987344014
+"Maternal, Neonatal, and Nutritional",Nutritional Deficiencies,251411,0.09893517511035275
+"Maternal, Neonatal, and Nutritional",Protein-Energy Malnutrition,212080,0.08345765275745139
+"Maternal, Neonatal, and Nutritional",Maternal Disorders,196306,0.07725027339779449
+External Causes,Road Injuries,1197575,0.41121659954269396
+External Causes,Self-harm,758697,0.26051712871698496
+External Causes,Interpersonal Violence,414157,0.1422109122324727
+External Causes,Drowning,237069,0.08140342612110883
+External Causes,"Fire, Heat, and Hot Substances",111199,0.03818289013426969
+External Causes,Poisonings,77130,0.02648446763061018
+External Causes,Conflict and Terrorism,62932,0.021609237870213405
+External Causes,Environmental Heat and Cold Exposure,47442,0.016290368382359758
+External Causes,Exposure to Forces of Nature,6072,0.0020849693692864646

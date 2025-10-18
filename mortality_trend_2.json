@@ -7,7 +7,7 @@
     "url": "data/total_deaths_by_country_with_population.csv"
   },
   "transform": [
-    {"filter": "datum.country == 'India' || datum.country == 'South Africa' || datum.country == 'Egypt' || datum.country == 'Nigeria'"},
+    {"filter": "datum.country == 'Ethiopia' || datum.country == 'South Africa' || datum.country == 'Laos' || datum.country == 'Nigeria'"},
     {"calculate": "datum.total_deaths / datum.total_population", "as": "Mortality Rate"}
   ],
   "mark": {
@@ -33,7 +33,7 @@
       "type": "nominal",
       "title": "Country",
       "scale": {
-        "scheme": "category10"
+        "scheme": "yellowgreen"
       }
     },
     "tooltip": [

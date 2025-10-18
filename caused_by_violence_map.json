@@ -1,27 +1,14 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "title": "Global Death Caused by Drug Use",
+  "title": "Global Death Caused by Interpersonal Violence",
   "width": 500,
   "height": 300,
-  "params": [
-    {
-        "name": "Year_selection",
-        "value": 2019,
-        "bind": {
-            "input": "range",
-            "min": 1990,
-            "max": 2019,
-            "step": 1,
-            "name": "Year: "
-        }
-    }
-  ],
   "projection": {"type": "equalEarth"},
   "data": {
     "url": "data/external/total_violence_death.csv"
   },
   "transform": [
-    {"filter": "datum.year == Year_selection"},
+    {"filter": "datum.year == 2019"},
     {
       "lookup": "country",
       "from": {

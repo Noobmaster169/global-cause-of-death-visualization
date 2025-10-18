@@ -1,0 +1,44 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v6.json",
+    "title": "Cases of Infectious Disease",
+    "width": 400,
+    "height": 340,
+    "data": { "url": "data/disease/total_infectious_death.csv" },
+    "transform": [
+        {"filter": "datum.category == 'Infectious Disease'"}
+    ],
+    "mark": {
+        "type": "arc",
+        "innerRadius": 60,
+        "outerRadius": 150,
+        "stroke": "white",
+        "strokeWidth": 2
+    },
+    "encoding": {
+        "theta": {
+            "field": "total_deaths",
+            "type": "quantitative"
+        },
+        "color": {
+            "field": "cause",
+            "type": "nominal",
+            "sort": {"field": "ratio", "order": "descending"},
+            "legend": {
+                "title": "Cause of Death"
+            },
+            "scale": {
+                "scheme": "pastel1"
+            }
+        },
+        "order": {
+            "field": "ratio",
+            "type": "quantitative",
+            "sort": "descending"
+        },
+        "tooltip": [
+            {"field": "cause", "type": "nominal", "title": "Cause"},
+            {"field": "total_deaths", "type": "quantitative", "format": ",", "title": "Total Deaths"},
+            {"field": "ratio", "type": "quantitative", "format": ".4%", "title": "Percentage"}
+        ]
+    }
+}
