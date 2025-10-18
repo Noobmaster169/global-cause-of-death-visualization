@@ -41,6 +41,7 @@
             font-size: 2rem;
             margin-bottom: 15px;
             font-weight: 300;
+            font-family: 'Times New Roman', Times, serif;
         }
         
         .header p {
@@ -126,7 +127,11 @@
             padding: 10px 30px;
             margin-bottom: 15px;
         }
-        
+
+        .small-space {
+            height: 20px;
+        }
+
         .space {
             height: 40px;
         }
@@ -214,14 +219,14 @@
         <div class="dashboard-grid">
             <div class="chart-container-no-bottom half-width">
                 <h1 class="chart-title">Infectious Diseases</h1>
-                <div class="chart-description">Most countries have low rate of Infectious Disease case. However the number is very high among countries in <b>Africa</b>. Most commonly found causes are <b>Lower Respiratory Infections</b> and <b>HIV/AIDS</b>.</div>
+                <div class="chart-description">Most countries have low rate of Infectious Disease case. However the number is very high among countries in <b>Africa</b>. Most commonly found causes are <b>Lower Respiratory Infections</b>, <b>Diarrheal Diseases</b>, <b>Tuberculosis</b>, <b>HIV/AIDS</b>, and <b>Malaria</b>, which are the biggest unsolved problems in the continent.</div>
                 <div id="infectious-distribution" class="loading">Loading chart...</div>
                 <div id="infectious-map" class="loading">Loading map...</div>
             </div>  
             <div class="chart-container-no-bottom half-width">
                 <h1 class="chart-title">External Causes</h1>
                 <div class="chart-description">Several cause of deaths comes from external factors. For example, <b>2%</b> of death in <b>United States</b> and <b>United Arab Emirates</b> are caused by the use of <b>drugs</b>. Whereas, <b>Latin America</b> has high cases of death caused by <b>Interpersonal Violence</b>.</div>
-                <div></div>
+                <div class="small-space"></div>
                 <div id="drug-map" class="loading">Loading map...</div>
                 <div class="space"></div>
                 <div id="violence-map" class="loading">Loading map...</div>

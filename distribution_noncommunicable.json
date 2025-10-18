@@ -27,7 +27,7 @@
                 "title": "Cause of Death"
             },
             "scale": {
-                "scheme": "spectral"
+                "scheme": "tableau10"
             }
         },
         "order": {
